@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="129" tvg-name="HRT2" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt2.png" group-title="Ex-YU",HRT2 - HRT2
+http://media.bossna-caffe.com:80/live?channelId=129&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="131" tvg-name="HRT3" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt3.png" group-title="Ex-YU",HRT3 - HRT3
+http://media.bossna-caffe.com:80/live?channelId=131&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="132" tvg-name="HRT 4" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt4.png" group-title="Ex-YU",HRT 4 - HRT 4
+http://media.bossna-caffe.com:80/live?channelId=132&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="99" tvg-name="Nova TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/nova_tv_hr.png" group-title="Ex-YU",Nova TV - Nova TV
+http://media.bossna-caffe.com:80/live?channelId=99&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="28" tvg-name="Doma TV" tvg-logo="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_1.gif" group-title="Ex-YU",Doma TV - Doma TV
+http://media.bossna-caffe.com:80/live?channelId=28&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="43" tvg-name="RTL" tvg-logo="http://img1.wikia.nocookie.net/__cb20110325202505/logopedia/images/0/0b/RTL_Logo_2004.jpg" group-title="Ex-YU",RTL - RTL
+http://media.bossna-caffe.com:80/live?channelId=43&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
+#EXTINF:-1 tvg-id="179" tvg-name="RTL 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnhqqGVE9j6smNywUIHzwYtqWZUcGLWbAQbVVoLqDhN4HSlMcb_g" group-title="Ex-YU",RTL 2 - RTL 2
+http://media.bossna-caffe.com:80/live?channelId=179&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
