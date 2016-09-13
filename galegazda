@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="412" tvg-name="═════Hrvatska═════" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglLlz-Q8Ai3y7xIuTzU7SjRqOBErsUU1RKJMsHgyfEXliDrm7igdE5Jg3" group-title="Ex-YU",═════Hrvatska═════ - ═════Hrvatska═════
 http://media.bossna-caffe.com:80/live?channelId=412&uid=9198&deviceUser=110manzalovic&devicePass=5grDr26AF5fz7Xha
 #EXTINF:-1 tvg-id="128" tvg-name="HRT1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Ex-YU",HRT1 - HRT1
