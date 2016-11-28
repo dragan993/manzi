@@ -1,0 +1,1124 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="412" tvg-name="═════Hrvatska═════" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglLlz-Q8Ai3y7xIuTzU7SjRqOBErsUU1RKJMsHgyfEXliDrm7igdE5Jg3" group-title="Ex-YU",═════Hrvatska═════ - ═════Hrvatska═════
+http://media.bossna-caffe.com:80/live?channelId=412&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="128" tvg-name="HRT1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Ex-YU",HRT1 - HRT1
+http://media.bossna-caffe.com:80/live?channelId=128&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="129" tvg-name="HRT2" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt2.png" group-title="Ex-YU",HRT2 - HRT2
+http://media.bossna-caffe.com:80/live?channelId=129&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="131" tvg-name="HRT3" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt3.png" group-title="Ex-YU",HRT3 - HRT3
+http://media.bossna-caffe.com:80/live?channelId=131&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="132" tvg-name="HRT 4" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt4.png" group-title="Ex-YU",HRT 4 - HRT 4
+http://media.bossna-caffe.com:80/live?channelId=132&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="99" tvg-name="Nova TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/nova_tv_hr.png" group-title="Ex-YU",Nova TV - Nova TV
+http://media.bossna-caffe.com:80/live?channelId=99&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="28" tvg-name="Doma TV" tvg-logo="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_1.gif" group-title="Ex-YU",Doma TV - Doma TV
+http://media.bossna-caffe.com:80/live?channelId=28&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="43" tvg-name="RTL" tvg-logo="http://img1.wikia.nocookie.net/__cb20110325202505/logopedia/images/0/0b/RTL_Logo_2004.jpg" group-title="Ex-YU",RTL - RTL
+http://media.bossna-caffe.com:80/live?channelId=43&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="179" tvg-name="RTL 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnhqqGVE9j6smNywUIHzwYtqWZUcGLWbAQbVVoLqDhN4HSlMcb_g" group-title="Ex-YU",RTL 2 - RTL 2
+http://media.bossna-caffe.com:80/live?channelId=179&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="615" tvg-name="RTL Crime" tvg-logo="/noicon.png" group-title="Ex-YU",RTL Crime - RTL Crime
+http://cms.bossna-caffe.com:80/live?channelId=615&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="263" tvg-name="RTL Living" tvg-logo="http://esso.bossna-caffe.com/logos/cro/rtl_living_hr.png" group-title="Ex-YU",RTL Living - RTL Living
+http://media.bossna-caffe.com:80/live?channelId=263&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="605" tvg-name="Rtl Passion" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Passion_2006.svg/300px-Logo_Passion_2006.svg.png" group-title="Ex-YU",Rtl Passion - Rtl Passion
+http://cms.bossna-caffe.com:80/live?channelId=605&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="595" tvg-name="Osjecka TV" tvg-logo="http://www.osijek031.com/slike/novosti_2008_11/2008_11_17_ostv_logo_200x200_2.png" group-title="Ex-YU",Osjecka TV - Osjecka TV
+http://video.bossna-caffe.com:80/live?channelId=595&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="596" tvg-name="Slavonska TV" tvg-logo="http://tvprofil.net/img/kanali-logo/stv-logo.png" group-title="Ex-YU",Slavonska TV - Slavonska TV
+http://video.bossna-caffe.com:80/live?channelId=596&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="597" tvg-name="Vinkovačka TV" tvg-logo="http://tvprofil.net/img/kanali-logo/vinkovacka-tv-logo.png" group-title="Ex-YU",Vinkovačka TV - Vinkovačka TV
+http://video.bossna-caffe.com:80/live?channelId=597&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="177" tvg-name="CMC" tvg-logo="http://esso.bossna-caffe.com/logos/cmc-logo.png" group-title="Music",CMC - CMC
+http://media.bossna-caffe.com:80/live?channelId=177&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="320" tvg-name="Banovina TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/logo_rtv%20banovina%20hr.png" group-title="Ex-YU",Banovina TV - Banovina TV
+http://media.bossna-caffe.com:80/live?channelId=320&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="413" tvg-name="═════ BOSNA ═════" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2Flfu_eDpCGLEh9GX1weRFD_1JH119YQZVrGxq2e64ci6_awNeyUCsQ" group-title="Ex-YU",═════ BOSNA ═════ - ═════ BOSNA ═════
+http://s02.bossna-caffe.com:80/live?channelId=413&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="126" tvg-name="BHT1" tvg-logo="http://esso.bossna-caffe.com/logos/bih/bht1.png" group-title="Ex-YU",BHT1 - BHT1
+http://media.bossna-caffe.com:80/live?channelId=126&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="127" tvg-name="FTV" tvg-logo="http://esso.bossna-caffe.com/logos/bih/ftv_ba.png" group-title="Ex-YU",FTV - FTV
+http://media.bossna-caffe.com:80/live?channelId=127&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="271" tvg-name="TV Sarajevo" tvg-logo="http://esso.bossna-caffe.com/logos/bih/tv_sarajevo.jpg" group-title="Ex-YU",TV Sarajevo - TV Sarajevo
+http://media.bossna-caffe.com:80/live?channelId=271&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="961" tvg-name="TV Alfa Sarajevo" tvg-logo="/noicon.png" group-title="Ex-YU",TV Alfa Sarajevo - TV Alfa Sarajevo
+http://cms.bossna-caffe.com:80/live?channelId=961&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="176" tvg-name="Al Jazeera" tvg-logo="http://esso.bossna-caffe.com/logos/bih/al_jazeera_balkans.png" group-title="Ex-YU",Al Jazeera - Al Jazeera
+http://media.bossna-caffe.com:80/live?channelId=176&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="277" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoR1SNKp-fF2hMWKyN3TFr9YnH4qvw_DIQ8ODMYCt-9_WSPakC2BYglsD" group-title="Ex-YU",ATV - ATV
+http://cms.bossna-caffe.com:80/live?channelId=277&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="253" tvg-name="Face TV" tvg-logo="http://esso.bossna-caffe.com/logos/bih/face_tv_ba.png" group-title="Ex-YU",Face TV - Face TV
+http://media.bossna-caffe.com:80/live?channelId=253&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="186" tvg-name="TK Tuzla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png" group-title="Ex-YU",TK Tuzla - TK Tuzla
+http://media.bossna-caffe.com:80/live?channelId=186&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="78" tvg-name="Hayat HD" tvg-logo="http://www.bismillah.ba/foto-galeria/sponzori-Hayat-logo.png" group-title="Ex-YU",Hayat HD - Hayat HD
+http://media.bossna-caffe.com:80/live?channelId=78&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="591" tvg-name="HAYAT PLUS" tvg-logo="http://upload.wikimedia.org/wikipedia/bs/thumb/1/1a/Logo_hayat_tv_sat_plus.png/200px-Logo_hayat_tv_sat_plus.png" group-title="Ex-YU",HAYAT PLUS - HAYAT PLUS
+http://media.bossna-caffe.com:80/live?channelId=591&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="156" tvg-name="Hayat Folk" tvg-logo="http://esso.bossna-caffe.com/logos/hayat-folk-logo.png" group-title="Music",Hayat Folk - Hayat Folk
+http://media.bossna-caffe.com:80/live?channelId=156&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="252" tvg-name="N1 TV" tvg-logo="http://members.kabsi.at/fest/images/n1.gif" group-title="Ex-YU",N1 TV - N1 TV
+http://media.bossna-caffe.com:80/live?channelId=252&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="49" tvg-name="OBN" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg" group-title="Ex-YU",OBN - OBN
+http://media.bossna-caffe.com:80/live?channelId=49&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="990" tvg-name="Prva Hercegovacka" tvg-logo="/noicon.png" group-title="Ex-YU",Prva Hercegovacka - Prva Hercegovacka
+http://s1.bossna-caffe.com:80/live?channelId=990&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="985" tvg-name="SEHARA TV" tvg-logo="http://maxtv.ba/images/tvlogo/tvseharalogo.png" group-title="Music",SEHARA TV - SEHARA TV
+http://s1.bossna-caffe.com:80/live?channelId=985&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="321" tvg-name="A1 Balkan" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/a1-balkan.png" group-title="Ex-YU",A1 Balkan - A1 Balkan
+http://media.bossna-caffe.com:80/live?channelId=321&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="325" tvg-name="A1 Islam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Islam_channel_logo.jpg" group-title="Ex-YU",A1 Islam - A1 Islam
+http://media.bossna-caffe.com:80/live?channelId=325&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="326" tvg-name="A1 International" tvg-logo="http://www.trackitonline.ru/logos/US_A1.png" group-title="Ex-YU",A1 International - A1 International
+http://s02.bossna-caffe.com:80/live?channelId=326&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="996" tvg-name="Ultra TV ex-Yu" tvg-logo="/noicon.png" group-title="Children",Ultra TV ex-Yu - Ultra TV ex-Yu
+http://s1.bossna-caffe.com:80/live?channelId=996&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="959" tvg-name="Studio B" tvg-logo="/noicon.png" group-title="Ex-YU",Studio B - Studio B
+http://video.bossna-caffe.com:80/live?channelId=959&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="322" tvg-name="Valentino TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsnw7MAlN5LmjqrfBqdzAjoxXs9vubYqqDyGHJIgFyGvXP5kaRMkzGwrY" group-title="Ex-YU",Valentino TV - Valentino TV
+http://media.bossna-caffe.com:80/live?channelId=322&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="242" tvg-name="SOS" tvg-logo="http://esso.bossna-caffe.com/logos/srb/sos_kanal.png" group-title="Ex-YU",SOS - SOS
+http://cms.bossna-caffe.com:80/live?channelId=242&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="444" tvg-name="DM SAT" tvg-logo="http://www.dmsat.tv/download/dmsat_logo.jpg" group-title="Music",DM SAT - DM SAT
+http://s02.bossna-caffe.com:80/live?channelId=444&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="288" tvg-name="MTV IGMAN" tvg-logo="http://i.ytimg.com/vi/_G5M-3hJXpY/maxresdefault.jpg" group-title="Ex-YU",MTV IGMAN - MTV IGMAN
+http://media.bossna-caffe.com:80/live?channelId=288&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="85" tvg-name="BN BIH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpMLOH7A4xoKEVuzdJwBW4SpgeBKlPaHu6rgilsd-dyfUBDEbX8oBdA" group-title="Ex-YU",BN BIH - BN BIH
+http://media.bossna-caffe.com:80/live?channelId=85&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="86" tvg-name="BN Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpMLOH7A4xoKEVuzdJwBW4SpgeBKlPaHu6rgilsd-dyfUBDEbX8oBdA" group-title="Music",BN Music - BN Music
+http://media.bossna-caffe.com:80/live?channelId=86&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="960" tvg-name="RTV Slon" tvg-logo="/noicon.png" group-title="Music",RTV Slon - RTV Slon
+http://cms.bossna-caffe.com:80/live?channelId=960&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="262" tvg-name="RTV Zenica" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4hMOns4_MBlZurJfClCoDsXnXcI_1XHWyRCYfx2wssj9etk1_" group-title="Ex-YU",RTV Zenica - RTV Zenica
+http://media.bossna-caffe.com:80/live?channelId=262&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="318" tvg-name="Posavina TV" tvg-logo="http://www.frocus.net/images/logotv/original/Posavina-TV.jpg" group-title="Ex-YU",Posavina TV - Posavina TV
+http://media.bossna-caffe.com:80/live?channelId=318&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="955" tvg-name="Z1" tvg-logo="/noicon.png" group-title="Ex-YU",Z1 - Z1
+http://cms.bossna-caffe.com:80/live?channelId=955&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="10" tvg-name="Duga TV" tvg-logo="http://esso.bossna-caffe.com/logos/rtv-duga-logo.png" group-title="Music",Duga TV - Duga Tv
+http://media.bossna-caffe.com:80/live?channelId=10&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1004" tvg-name="TOP Sound BH" tvg-logo="http://nextgen-iptv.com/logo/logo-topsound.png" group-title="Movies",TOP Sound BH - TOP Sound BH
+http://media.bossna-caffe.com:80/live?channelId=1004&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1001" tvg-name="JATA TV" tvg-logo="http://i.imgur.com/aobEb4B.png" group-title="Ex-YU",JATA TV - JATA TV
+http://s1.bossna-caffe.com:80/live?channelId=1001&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="502" tvg-name="Izvorna TV" tvg-logo="/noicon.png" group-title="Ex-YU",Izvorna TV - Izvorna TV
+http://video.bossna-caffe.com:80/live?channelId=502&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="507" tvg-name="RTV Novi Pazar" tvg-logo="http://nextgen-iptv.com/logo/pazar.png" group-title="Ex-YU",RTV Novi Pazar - RTV Novi Pazar
+http://video.bossna-caffe.com:80/live?channelId=507&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="594" tvg-name="TV1" tvg-logo="http://nextgen-iptv.com/logo/TV1_BiH.png" group-title="Ex-YU",TV1 - TV1
+http://video.bossna-caffe.com:80/live?channelId=594&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="616" tvg-name="TV Mir" tvg-logo="http://i.imgur.com/V2MUEQd.png" group-title="Ex-YU",TV Mir - TV Mir
+http://cms.bossna-caffe.com:80/live?channelId=616&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="625" tvg-name="TV USK" tvg-logo="http://nextgen-iptv.com/logo/usk-logo.png" group-title="Ex-YU",TV USK - TV USK
+http://video.bossna-caffe.com:80/live?channelId=625&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="987" tvg-name="Belle Amie TV" tvg-logo="http://nextgen-iptv.com/logo/tv-belle-amie-logo.png" group-title="Ex-YU",Belle Amie TV - Belle Amie TV
+http://s1.bossna-caffe.com:80/live?channelId=987&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1009" tvg-name="Zivinice" tvg-logo="http://i.imgur.com/JYwDc0G.png" group-title="Ex-YU",Zivinice - Zivinice
+http://video.bossna-caffe.com:80/live?channelId=1009&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1125" tvg-name="Hayat Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Logo_of_Hayat_Music_TV.png" group-title="Music",Hayat Music - Hayat Music
+http://s1.bossna-caffe.com:80/live?channelId=1125&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1157" tvg-name="HIT Brcko(Test)" tvg-logo="/noicon.png" group-title="Ex-YU",HIT Brcko(Test) - HIT Brcko(Test)
+http://s6.bossna-caffe.com:80/live?channelId=1157&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="414" tvg-name="═════ SRBIJA ═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST2kdeGWYU6trHFtOLRvmImO1w5AnrRlSiSkKfuwF1IqglB4cT" group-title="Ex-YU",═════ SRBIJA ═════ - ═════ SRBIJA ═════
+http://s02.bossna-caffe.com:80/live?channelId=414&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="273" tvg-name="RTS 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmL2J3QTJLuPvvl1VhvWTVjIG_W2b8oH1RmyYYSt5ZE5VWwn2uvtfWfok" group-title="Ex-YU",RTS 1 - RTS 1
+http://cms.bossna-caffe.com:80/live?channelId=273&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="274" tvg-name="RTS 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_2.jpg" group-title="Ex-YU",RTS 2 - RTS 2
+http://cms.bossna-caffe.com:80/live?channelId=274&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="246" tvg-name="RTS HD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rts.png" group-title="Ex-YU",RTS HD - RTS HD
+http://cms.bossna-caffe.com:80/live?channelId=246&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="650" tvg-name="RTV 1" tvg-logo="http://i.imgur.com/3v63YVT.jpg" group-title="Ex-YU",RTV 1 - RTV 1
+http://s1.bossna-caffe.com:80/live?channelId=650&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="74" tvg-name="B92" tvg-logo="http://esso.bossna-caffe.com/logos/srb/b92_rs_tv.png" group-title="Ex-YU",B92 - B92
+http://media.bossna-caffe.com:80/live?channelId=74&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="258" tvg-name="Nova RS" tvg-logo="http://esso.bossna-caffe.com/logos/srb/nova_rs.png" group-title="Ex-YU",Nova RS - Nova RS
+http://media.bossna-caffe.com:80/live?channelId=258&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="42" tvg-name="Prva" tvg-logo="http://esso.bossna-caffe.com/logos/srb/prva_rs.png" group-title="Ex-YU",Prva - Prva
+http://cms.bossna-caffe.com:80/live?channelId=42&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="314" tvg-name="PRVA PLUS" tvg-logo="http://esso.bossna-caffe.com/logos/srb/prva_plus_rs.png" group-title="Ex-YU",PRVA PLUS - PRVA PLUS
+http://cms.bossna-caffe.com:80/live?channelId=314&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="257" tvg-name="RTRS" tvg-logo="http://www.media.ba/sites/default/files/rtrs_logo.png" group-title="Ex-YU",RTRS - RTRS
+http://cms.bossna-caffe.com:80/live?channelId=257&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="988" tvg-name="City TV Online" tvg-logo="http://nextgen-iptv.com/logo/city.png" group-title="Ex-YU",City TV Online - City TV Online
+http://s1.bossna-caffe.com:80/live?channelId=988&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="989" tvg-name="VIP TV RS" tvg-logo="/noicon.png" group-title="Ex-YU",VIP TV RS - VIP TV RS
+http://s1.bossna-caffe.com:80/live?channelId=989&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="158" tvg-name="Happy TV" tvg-logo="http://esso.bossna-caffe.com/logos/srb/happy_tv_rs.png" group-title="Ex-YU",Happy TV - Happy TV
+http://media.bossna-caffe.com:80/live?channelId=158&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="93" tvg-name="Grand TV" tvg-logo="http://esso.bossna-caffe.com/logos/grand_tv_rs.png" group-title="Music",Grand TV - Grand TV
+http://cms.bossna-caffe.com:80/live?channelId=93&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="986" tvg-name="Glas Drine" tvg-logo="http://maxtv.ba/images/tvlogo/glas-drine.png" group-title="Music",Glas Drine - Glas Drine
+http://cms.bossna-caffe.com:80/live?channelId=986&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1003" tvg-name="MimTV (TEST)" tvg-logo="http://nextgen-iptv.com/logo/mim_logo-2.png" group-title="Movies",MimTV (TEST) - MimTV (TEST)
+http://media.bossna-caffe.com:80/live?channelId=1003&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="247" tvg-name="Klasik TV" tvg-logo="http://esso.bossna-caffe.com/logos/klasiktv-logo.png" group-title="Movies",Klasik TV - Klasik TV
+http://media.bossna-caffe.com:80/live?channelId=247&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="622" tvg-name="Mlava TV" tvg-logo="/noicon.png" group-title="Ex-YU",Mlava TV - Mlava TV
+http://video.bossna-caffe.com:80/live?channelId=622&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="336" tvg-name="Radio Televizija Crne Gore" tvg-logo="http://2.bp.blogspot.com/-j3GTf0MzVWQ/UALzTr5rSII/AAAAAAAAIlo/czAl1XZmZw8/s1600/RTCG+logo+2012.png" group-title="Ex-YU",Radio Televizija Crne Gore - Radio Televizija Crne Gore
+http://media.bossna-caffe.com:80/live?channelId=336&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="957" tvg-name="ATLAS TV" tvg-logo="http://nextgen-iptv.com/logo/RTV_Atlas_(logo).png" group-title="Ex-YU",ATLAS TV - ATLAS TV
+http://s1.bossna-caffe.com:80/live?channelId=957&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="628" tvg-name="Sandzak TV" tvg-logo="http://nextgen-iptv.com/logo/sandzak-tv-logo.jpg" group-title="Ex-YU",Sandzak TV - Sandzak TV
+http://video.bossna-caffe.com:80/live?channelId=628&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1126" tvg-name="Balkanika" tvg-logo="http://i.imgur.com/Vh6uuvI.jpg" group-title="Ex-YU",Balkanika - Balkanika
+http://s6.bossna-caffe.com:80/live?channelId=1126&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="415" tvg-name="═════ PINK ═════" tvg-logo="http://i85.photobucket.com/albums/k49/redsmurf77/ebay/products2011/pink_tag_150_listing.png" group-title="Pink",═════ PINK ═════ - ═════ PINK ═════
+http://s02.bossna-caffe.com:80/live?channelId=415&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="51" tvg-name="Pink" tvg-logo="http://ukskytv.com/images/pink-plus-large.jpg" group-title="Pink",Pink - Pink
+http://cms.bossna-caffe.com:80/live?channelId=51&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="50" tvg-name="PINK BIH" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_bh.jpg" group-title="Pink",PINK BIH - PINK BIH
+http://cms.bossna-caffe.com:80/live?channelId=50&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="306" tvg-name="Pink Plus" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_plus.png" group-title="Pink",Pink Plus - Pink Plus
+http://cms.bossna-caffe.com:80/live?channelId=306&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="66" tvg-name="Pink 2" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_2_rs.png" group-title="Pink",Pink 2 - Pink 2
+http://cms.bossna-caffe.com:80/live?channelId=66&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="319" tvg-name="Pink 3" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_3_info_rs.png" group-title="Pink",Pink 3 - Pink 3
+http://media.bossna-caffe.com:80/live?channelId=319&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="67" tvg-name="Pink M" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_m.png" group-title="Pink",Pink M - Pink M
+http://cms.bossna-caffe.com:80/live?channelId=67&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="289" tvg-name="Pink Soap" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_soap_rs.png" group-title="Pink",Pink Soap - Pink Soap
+http://cms.bossna-caffe.com:80/live?channelId=289&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="164" tvg-name="Pink Action" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl2WdU-nQ-EYI5JoPc5JAXGrcNpHnYQzXBmBZK2EoJe-Gj0nz2zQ" group-title="Pink",Pink Action - Pink Action
+http://cms.bossna-caffe.com:80/live?channelId=164&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="82" tvg-name="Pink Film" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_film.png" group-title="Pink",Pink Film - Pink Film
+http://cms.bossna-caffe.com:80/live?channelId=82&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="83" tvg-name="Pink Folk" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk1.png" group-title="Music",Pink Folk - Pink Folk
+http://cms.bossna-caffe.com:80/live?channelId=83&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="295" tvg-name="Pink Folk 2" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk2.png" group-title="Music",Pink Folk 2 - Pink Folk 2
+http://video.bossna-caffe.com:80/live?channelId=295&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="69" tvg-name="Pink Premium" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_premium_rs.png" group-title="Pink",Pink Premium - Pink Premium
+http://s02.bossna-caffe.com:80/live?channelId=69&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="37" tvg-name="Pink Comedy" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_comedy_rs.png" group-title="Pink",Pink Comedy - Pink Comedy
+http://cms.bossna-caffe.com:80/live?channelId=37&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="39" tvg-name="Pink Horor" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horor - Pink Horor
+http://cms.bossna-caffe.com:80/live?channelId=39&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="958" tvg-name="Pink Classic" tvg-logo="http://tvprofil.net/img/kanali-logo/pink-classic-logo.png" group-title="Pink",Pink Classic - Pink Classic
+http://video.bossna-caffe.com:80/live?channelId=958&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="498" tvg-name="Pink Movies" tvg-logo="http://nextgen-iptv.com/logo/PinkMovies_SRB.png" group-title="Pink",Pink Movies - Pink Movies
+http://media.bossna-caffe.com:80/live?channelId=498&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="38" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Crime_Mistery_logo.png" group-title="Pink",PINK CRIME & MYSTERY - PINK CRIME & MYSTERY
+http://cms.bossna-caffe.com:80/live?channelId=38&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="167" tvg-name="Pink World" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_world_rs.png" group-title="Pink",Pink World - Pink World
+http://cms.bossna-caffe.com:80/live?channelId=167&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="163" tvg-name="Pink Western" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink-western-logo.jpg" group-title="Pink",Pink Western - Pink Western
+http://cms.bossna-caffe.com:80/live?channelId=163&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="499" tvg-name="Pink Pedia" tvg-logo="http://nextgen-iptv.com/logo/PinkPedia_SRB.png" group-title="Documentary & Style",Pink Pedia - Pink Pedia
+http://video.bossna-caffe.com:80/live?channelId=499&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="251" tvg-name="Pink Kids" tvg-logo="http://esso.bossna-caffe.com/logos/pink-kids-logo.png" group-title="Children",Pink Kids - Pink Kids
+http://cms.bossna-caffe.com:80/live?channelId=251&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="40" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_SciFi_Fantasy_logo.png" group-title="Pink",PINK SCI-FI & FANTASY - PINK SCI-FI & FANTASY
+http://cms.bossna-caffe.com:80/live?channelId=40&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="41" tvg-name="Pink Thriller" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller - Pink Thriller
+http://cms.bossna-caffe.com:80/live?channelId=41&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="500" tvg-name="Pink Zabava" tvg-logo="http://nextgen-iptv.com/logo/PinkZabava_SRB.png" group-title="Pink",Pink Zabava - Pink Zabava
+http://video.bossna-caffe.com:80/live?channelId=500&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="294" tvg-name="Pink Music" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu2qkFEfbMgsTq7mzbONWo8yW8umMuntm-P0TO-7VnXmB-J9tTlzJZOJT-" group-title="Music",Pink Music - Pink Music
+http://media.bossna-caffe.com:80/live?channelId=294&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="323" tvg-name="Pink Romance" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Romance_logo.png" group-title="Pink",Pink Romance - Pink Romance
+http://media.bossna-caffe.com:80/live?channelId=323&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="317" tvg-name="Pink Reality" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_reality_rs.png" group-title="Pink",Pink Reality - Pink Reality
+http://cms.bossna-caffe.com:80/live?channelId=317&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="327" tvg-name="Pink Kuvar" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU4ZgirBYRLM_Y12F-aeztTtAUnwetFPV9ZoaiefEfvHDjaFyVNZCsfdNW" group-title="Pink",Pink Kuvar - Pink Kuvar
+http://media.bossna-caffe.com:80/live?channelId=327&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="416" tvg-name="═════ FILM & SERIJE ═════" tvg-logo="/noicon.png" group-title="Movies",═════ FILM & SERIJE ═════ - ═════ FILM & SERIJE ═════
+http://s02.bossna-caffe.com:80/live?channelId=416&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="34" tvg-name="HBO Adria" tvg-logo="http://esso.bossna-caffe.com/logos/HBO.png" group-title="Movies",HBO Adria - HBO Adria
+http://media.bossna-caffe.com:80/live?channelId=34&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="35" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO 2 - HBO 2
+http://media.bossna-caffe.com:80/live?channelId=35&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="791" tvg-name="HBO 3" tvg-logo="http://i.imgur.com/7DKDGuC.jpg" group-title="Movies",HBO 3 - HBO 3
+http://cms.bossna-caffe.com:80/live?channelId=791&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="302" tvg-name="Cinestar TV" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_logo.png" group-title="Movies",Cinestar TV - Cinestar TV
+http://media.bossna-caffe.com:80/live?channelId=302&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="71" tvg-name="CINESTAR PREMIERE 1" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_1_logo.png" group-title="Movies",CINESTAR PREMIERE 1 - CINESTAR PREMIERE 1
+http://media.bossna-caffe.com:80/live?channelId=71&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="244" tvg-name="Cinestar Premiere 2" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_2_logo.png" group-title="Movies",Cinestar Premiere 2 - Cinestar Premiere 2
+http://media.bossna-caffe.com:80/live?channelId=244&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="410" tvg-name="Cinestar Action" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_action_logo.png" group-title="Movies",Cinestar Action - Cinestar Action
+http://s02.bossna-caffe.com:80/live?channelId=410&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="994" tvg-name="CinePlus 1 HD Test" tvg-logo="/noicon.png" group-title="Movies",CinePlus 1 HD Test - Cine Plus 1 HD Test
+http://s1.bossna-caffe.com:80/live?channelId=994&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1002" tvg-name="Cine Plus Select 6 (Test)" tvg-logo="/noicon.png" group-title="Movies",Cine Plus Select 6 (Test) - Cine Plus Select 6 (Test)
+http://video.bossna-caffe.com:80/live?channelId=1002&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="991" tvg-name="FilmBox Plus (TEST)" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Movies",FilmBox Plus (TEST) - FilmBox Plus (TEST)
+http://s1.bossna-caffe.com:80/live?channelId=991&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="956" tvg-name="FilmBox Extra" tvg-logo="/noicon.png" group-title="Movies",FilmBox Extra - FilmBox Extra
+http://cms.bossna-caffe.com:80/live?channelId=956&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="14" tvg-name="Cinemax" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax-logo.png" group-title="Movies",Cinemax - Cinemax
+http://media.bossna-caffe.com:80/live?channelId=14&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="13" tvg-name="Cinemax 2" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax2-logo.png" group-title="Movies",Cinemax 2 - Cinemax 2
+http://media.bossna-caffe.com:80/live?channelId=13&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="610" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" group-title="Movies",M1 Film - M1 Film
+http://cms.bossna-caffe.com:80/live?channelId=610&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1039" tvg-name="M1 Film Gold (Test)" tvg-logo="/noicon.png" group-title="Movies",M1 Film Gold (Test) - M1 Film Gold (Test)
+http://s6.bossna-caffe.com:80/live?channelId=1039&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="612" tvg-name="My Film HD" tvg-logo="http://nextgen-iptv.com/logo/myfilm-logo-2.png" group-title="Movies",My Film HD - My Film HD
+http://cms.bossna-caffe.com:80/live?channelId=612&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="604" tvg-name="Axn HR" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/59/Axn_444_logo.png/revision/latest?cb=20140520122428" group-title="Movies",Axn HR - Axn HR
+http://s1.bossna-caffe.com:80/live?channelId=604&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="608" tvg-name="TV 1000" tvg-logo="http://nextgen-iptv.com/logo/TV1000_HR.png" group-title="Movies",TV 1000 - TV 1000
+http://s1.bossna-caffe.com:80/live?channelId=608&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="31" tvg-name="Fox" tvg-logo="http://esso.bossna-caffe.com/logos/fox-logo.png" group-title="Movies",Fox - Fox
+http://media.bossna-caffe.com:80/live?channelId=31&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="33" tvg-name="Fox Movies" tvg-logo="http://esso.bossna-caffe.com/logos/fox-movies-logo.png" group-title="Movies",Fox Movies - Fox Movies
+http://media.bossna-caffe.com:80/live?channelId=33&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="313" tvg-name="FOX LIFE" tvg-logo="http://esso.bossna-caffe.com/logos/fox-life-logo.PNG" group-title="Movies",FOX LIFE - FOX LIFE
+http://media.bossna-caffe.com:80/live?channelId=313&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="32" tvg-name="Fox Crime" tvg-logo="http://esso.bossna-caffe.com/logos/fox-crime-logo.png" group-title="Movies",Fox Crime - Fox Crime
+http://media.bossna-caffe.com:80/live?channelId=32&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="793" tvg-name="Film Klub" tvg-logo="http://nextgen-iptv.com/logo/Film-Klub-120x120.png" group-title="Movies",Film Klub - Film Klub
+http://cms.bossna-caffe.com:80/live?channelId=793&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1038" tvg-name="CinePlus 2 (Test)" tvg-logo="/noicon.png" group-title="Movies",CinePlus 2 (Test) - CinePlus 2 (Test)
+http://s6.bossna-caffe.com:80/live?channelId=1038&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1012" tvg-name="Max Premium (Test)" tvg-logo="/noicon.png" group-title="Movies",Max Premium (Test) - Max Premium (Test)
+http://s6.bossna-caffe.com:80/live?channelId=1012&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1013" tvg-name="Max Hits (Test)" tvg-logo="/noicon.png" group-title="Movies",Max Hits (Test) - Max Hits (Test)
+http://s6.bossna-caffe.com:80/live?channelId=1013&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="417" tvg-name="═════ DOKU & STYLE ═════" tvg-logo="https://logo.next-tv.ml/Discovery_Channel.png" group-title="Documentary & Style",═════ DOKU & STYLE ═════ - ═════ DOKU & STYLE ═════
+http://s02.bossna-caffe.com:80/live?channelId=417&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="72" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://esso.bossna-caffe.com/logos/nat-geographic-logo.png" group-title="Documentary & Style",NATIONAL GEOGRAPHIC - NATIONAL GEOGRAPHIC
+http://media.bossna-caffe.com:80/live?channelId=72&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="792" tvg-name="NatGeo Wild" tvg-logo="/noicon.png" group-title="Documentary & Style",NatGeo Wild - NatGeo Wild
+http://cms.bossna-caffe.com:80/live?channelId=792&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="27" tvg-name="Discovery Channel" tvg-logo="http://esso.bossna-caffe.com/logos/disney_channel_global.png" group-title="Documentary & Style",Discovery Channel - Discovery Channel
+http://media.bossna-caffe.com:80/live?channelId=27&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="36" tvg-name="History Channel" tvg-logo="http://esso.bossna-caffe.com/logos/history-logo.png" group-title="Documentary & Style",History Channel - History Channel
+http://media.bossna-caffe.com:80/live?channelId=36&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="617" tvg-name="History Channel 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS4C6yUCCplQefNCV60kAGIhfVQCOErUvDMG5DhcF4rIqiJtpsal9RPFF2qw" group-title="Documentary & Style",History Channel 2 - History Channel 2
+http://s1.bossna-caffe.com:80/live?channelId=617&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="993" tvg-name="DocuBox Test" tvg-logo="/noicon.png" group-title="Documentary & Style",DocuBox Test - DocuBox Test
+http://s1.bossna-caffe.com:80/live?channelId=993&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="992" tvg-name="Da Vinci Learning (Test)" tvg-logo="/noicon.png" group-title="Documentary & Style",Da Vinci Learning (Test) - Da Vinci Learning (Test)
+http://s1.bossna-caffe.com:80/live?channelId=992&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1" tvg-name="Animal Planet" tvg-logo="http://esso.bossna-caffe.com/logos/animal-planet-logo.PNG" group-title="Documentary & Style",Animal Planet - Animal Planet
+http://media.bossna-caffe.com:80/live?channelId=1&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="606" tvg-name="Viasat Explorer" tvg-logo="http://nextgen-iptv.com/logo/viasat%20explorer.png" group-title="Documentary & Style",Viasat Explorer - Viasat Explorer
+http://s1.bossna-caffe.com:80/live?channelId=606&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="607" tvg-name="Viasat History" tvg-logo="http://nextgen-iptv.com/logo/viasat%20history.png" group-title="Documentary & Style",Viasat History - Viasat History
+http://s1.bossna-caffe.com:80/live?channelId=607&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="185" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://esso.bossna-caffe.com/logos/crime%20and%20investigation.png" group-title="Documentary & Style",CRIME & INVESTIGATION - CRIME & INVESTIGATION
+http://media.bossna-caffe.com:80/live?channelId=185&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="266" tvg-name="E!" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkBktAKNcP9jMSIEfv7tgtEuF9UqUetcKv73grBXgW8lYmwsBOsxO2I2v6" group-title="Documentary & Style",E! - E!
+http://media.bossna-caffe.com:80/live?channelId=266&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="133" tvg-name="TLC  Discovery" tvg-logo="http://esso.bossna-caffe.com/logos/tlc-logo.png" group-title="Documentary & Style",TLC  Discovery - TLC  Discovery
+http://media.bossna-caffe.com:80/live?channelId=133&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="619" tvg-name="CBS Reality" tvg-logo="http://nextgen-iptv.com/logo/CBSReality_EU.png" group-title="Documentary & Style",CBS Reality - CBS Reality
+http://s1.bossna-caffe.com:80/live?channelId=619&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="618" tvg-name="Comedy Central Extra" tvg-logo="/noicon.png" group-title="Documentary & Style",Comedy Central Extra - Comedy Central Extra
+http://s1.bossna-caffe.com:80/live?channelId=618&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="209" tvg-name="24 Kitchen" tvg-logo="http://esso.bossna-caffe.com/logos/24-kitchen-logo.png" group-title="Documentary & Style",24 Kitchen - 24 Kitchen
+http://media.bossna-caffe.com:80/live?channelId=209&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="265" tvg-name="Lov i Ribolov" tvg-logo="http://esso.bossna-caffe.com/logos/lov_i_ribolov.png" group-title="Sport",Lov i Ribolov - Lov i Ribolov
+http://media.bossna-caffe.com:80/live?channelId=265&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="212" tvg-name="FIght Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fight_Channel_World_logo.png/176px-Fight_Channel_World_logo.png" group-title="Sport",FIght Channel - FIght Channel
+http://media.bossna-caffe.com:80/live?channelId=212&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="296" tvg-name="MTV EX YU" tvg-logo="http://img4.wikia.nocookie.net/__cb20100310170640/logopedia/images/0/0f/MTV_Hits_UK_2007.svg" group-title="Music",MTV EX YU - MTV EX YU
+http://cms.bossna-caffe.com:80/live?channelId=296&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="600" tvg-name="VIKOM TV" tvg-logo="/noicon.png" group-title="Music",VIKOM TV - VIKOM TV
+http://cms.bossna-caffe.com:80/live?channelId=600&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="297" tvg-name="MTV Dance" tvg-logo="http://esso.bossna-caffe.com/logos/mtv-dance-logo.png" group-title="Music",MTV Dance - MTV Dance
+http://s02.bossna-caffe.com:80/live?channelId=297&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="598" tvg-name="TOPMUSIC" tvg-logo="https://pbs.twimg.com/profile_images/527456844650786816/I1kkV8Iq.jpeg" group-title="Music",TOPMUSIC - TOPMUSIC
+http://cms.bossna-caffe.com:80/live?channelId=598&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="290" tvg-name="VH1" tvg-logo="http://esso.bossna-caffe.com/logos/vh1-logo.png" group-title="Music",VH1 - VH1
+http://cms.bossna-caffe.com:80/live?channelId=290&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="291" tvg-name="Vevo 1" tvg-logo="http://esso.bossna-caffe.com/logos/vevo.png" group-title="Music",Vevo 1 - Vevo 1
+http://cms.bossna-caffe.com:80/live?channelId=291&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="292" tvg-name="Vevo 2" tvg-logo="http://esso.bossna-caffe.com/logos/vevo2.jpg" group-title="Music",Vevo 2 - Vevo 2
+http://cms.bossna-caffe.com:80/live?channelId=292&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="609" tvg-name="Jugoton TV" tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png" group-title="Music",Jugoton TV - Jugoton TV
+http://s1.bossna-caffe.com:80/live?channelId=609&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1011" tvg-name="═════Kids═════" tvg-logo="/noicon.png" group-title="Children",═════Kids═════ - ═════Kids═════
+http://media.bossna-caffe.com:80/live?channelId=1011&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="264" tvg-name="RTL Kockica" tvg-logo="http://esso.bossna-caffe.com/logos/rtl-kockica-logo.png" group-title="Children",RTL Kockica - RTL Kockica
+http://media.bossna-caffe.com:80/live?channelId=264&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="299" tvg-name="Nickelodeon" tvg-logo="http://esso.bossna-caffe.com/logos/nickelodeon-logo.png" group-title="Children",Nickelodeon - Nickelodeon
+http://cms.bossna-caffe.com:80/live?channelId=299&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="626" tvg-name="Nick Jr." tvg-logo="http://nextgen-iptv.com/logo/nick%20junior.png" group-title="Children",Nick Jr. - Nick Jr.
+http://video.bossna-caffe.com:80/live?channelId=626&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="154" tvg-name="MiniTV" tvg-logo="http://esso.bossna-caffe.com/logos/minitv-logo.png" group-title="Children",MiniTV - MiniTV
+http://cms.bossna-caffe.com:80/live?channelId=154&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="248" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/logo/Hayatovci_BiH.png" group-title="Children",Hayatovci - Hayatovci
+http://cms.bossna-caffe.com:80/live?channelId=248&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="613" tvg-name="Pink Super Kids" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids - Pink Super Kids
+http://cms.bossna-caffe.com:80/live?channelId=613&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="300" tvg-name="Disney Channel UK" tvg-logo="http://esso.bossna-caffe.com/logos/disney_channel_global.png" group-title="Children",Disney Channel UK - Disney Channel UK
+http://cms.bossna-caffe.com:80/live?channelId=300&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="298" tvg-name="Disney Junior UK" tvg-logo="http://esso.bossna-caffe.com/logos/disney_junior_us.png" group-title="Children",Disney Junior UK - Disney Junior UK
+http://cms.bossna-caffe.com:80/live?channelId=298&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="232" tvg-name="Cartoon Network" tvg-logo="http://esso.bossna-caffe.com/logos/cartoon-network-logo.png" group-title="Children",Cartoon Network - Cartoon Network
+http://cms.bossna-caffe.com:80/live?channelId=232&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1127" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/6f/Minimax_TV.png" group-title="Children",Minimax - Minimax
+http://s6.bossna-caffe.com:80/live?channelId=1127&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1128" tvg-name="Disney XD" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Children",Disney XD - Disney XD
+http://s6.bossna-caffe.com:80/live?channelId=1128&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1129" tvg-name="Disney Cinemagic DE" tvg-logo="http://www.igreklik.com/slike/images/69707045527337050784.jpg" group-title="Children",Disney Cinemagic DE - Disney Cinemagic DE
+http://s6.bossna-caffe.com:80/live?channelId=1129&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1156" tvg-name="Baby TV" tvg-logo="http://www.igreklik.com/slike/images/27387835114191397399.jpg" group-title="Children",Baby TV - Baby TV
+http://s6.bossna-caffe.com:80/live?channelId=1156&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1171" tvg-name="DE | Boomerang(Test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png" group-title="Children",DE | Boomerang(Test) - DE | Boomerang(Test)
+http://s6.bossna-caffe.com:80/live?channelId=1171&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1172" tvg-name="Disney DE(Test)" tvg-logo="/noicon.png" group-title="Children",Disney DE(Test) - Disney DE(Test)
+http://s6.bossna-caffe.com:80/live?channelId=1172&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1173" tvg-name="TOGGO Plus DE(Test)" tvg-logo="/noicon.png" group-title="Children",TOGGO Plus DE(Test) - TOGGO Plus DE(Test)
+http://s6.bossna-caffe.com:80/live?channelId=1173&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1174" tvg-name="DE | Nickelodeon(Test)" tvg-logo="/noicon.png" group-title="Children",DE | Nickelodeon(Test) - DE | Nickelodeon(Test)
+http://s6.bossna-caffe.com:80/live?channelId=1174&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="420" tvg-name="═════ Deutsch ═════" tvg-logo="http://www.kf-kosova.de/images/deutsch-logo.png" group-title="International",═════ Deutsch ═════ - ═════ Deutsch ═════
+http://s02.bossna-caffe.com:80/live?channelId=420&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="430" tvg-name="DE: Arte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="Germany",DE: Arte HD - DE: Arte HD
+http://s02.bossna-caffe.com:80/live?channelId=430&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="18" tvg-name="De RTL" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtl_hd_de.png" group-title="Germany",De RTL - De RTL
+http://cms.bossna-caffe.com:80/live?channelId=18&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1007" tvg-name="RTL Passion DE" tvg-logo="http://nextgen-iptv.com/logo/RTLPassion_HR.png" group-title="Germany",RTL Passion DE - RTL Passion DE
+http://s02.bossna-caffe.com:80/live?channelId=1007&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="339" tvg-name="DE Kika HD" tvg-logo="http://esso.bossna-caffe.com/logos/kika_de.png" group-title="International",DE Kika HD - DE Kika HD
+http://media.bossna-caffe.com:80/live?channelId=339&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="283" tvg-name="DE FOX HD" tvg-logo="http://nextgen-iptv.com/logo/fox%20hd.png" group-title="Germany",DE FOX HD - DE FOX HD
+http://s02.bossna-caffe.com:80/live?channelId=283&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="16" tvg-name="De National Geography" tvg-logo="http://nextgen-iptv.com/logo/national%20geographic%20hd.png" group-title="Germany",De National Geography - De National Geography
+http://s02.bossna-caffe.com:80/live?channelId=16&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="181" tvg-name="DE VOX HD" tvg-logo="http://nextgen-iptv.com/logo/vox%20hd.png" group-title="Germany",DE VOX HD - DE VOX HD
+http://s02.bossna-caffe.com:80/live?channelId=181&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="259" tvg-name="DE RTL 2 HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgYgaD7jg8x0lTZYWPyz1NS3xqzTjImMrOLLMeo9rZMjIUkWIXsJSRL8U" group-title="Germany",DE RTL 2 HD - DE RTL 2 HD
+http://s02.bossna-caffe.com:80/live?channelId=259&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="260" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/200px-ORF_logo.svg.png" group-title="Germany",ORF 1 - ORF 1
+http://cms.bossna-caffe.com:80/live?channelId=260&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="134" tvg-name="ORF 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPFNrI1Rwsz11xqBv1rWcinbEIj--QB1dnqlDMwSnxyJIS7KkOjO3HGw" group-title="Germany",ORF 2 - ORF 2
+http://s02.bossna-caffe.com:80/live?channelId=134&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="338" tvg-name="DE-Sky 13 Street HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/13th_Street_Universal_HD.svg/495px-13th_Street_Universal_HD.svg.png" group-title="Germany",DE-Sky 13 Street HD - DE-Sky 13 Street HD
+http://media.bossna-caffe.com:80/live?channelId=338&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="204" tvg-name="De Sky Krimi" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRU9fHABTvlyh-chQzN2HhhUuiv7SusmM-sUl0dFerakc1bWvHoxt1r7I" group-title="Germany",De Sky Krimi - DE Sky Krimi
+http://cms.bossna-caffe.com:80/live?channelId=204&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="19" tvg-name="De Sky Action" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_action_hd.png" group-title="Germany",De Sky Action - De Sky Action
+http://cms.bossna-caffe.com:80/live?channelId=19&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="198" tvg-name="Sky De Cinema 24" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/448_sky_logo_skycinema24hd_tvguide.png" group-title="Germany",Sky De Cinema 24 - Sky De Cinema 24
+http://cms.bossna-caffe.com:80/live?channelId=198&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="22" tvg-name="De Sky Cinema" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_cinema.png" group-title="Germany",De Sky Cinema - De Sky Cinema
+http://media.bossna-caffe.com:80/live?channelId=22&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="196" tvg-name="Sky Germany TNT Film" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="Germany",Sky Germany TNT Film - Sky Germany TNT Film
+http://cms.bossna-caffe.com:80/live?channelId=196&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="23" tvg-name="De Sky Comedy" tvg-logo="http://image1.tvdigital.de/files/station_logos/617.png" group-title="Germany",De Sky Comedy - De Sky Comedy
+http://cms.bossna-caffe.com:80/live?channelId=23&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="195" tvg-name="Discovery Channel  DE" tvg-logo="http://img1.wikia.nocookie.net/__cb20091126085643/logopedia/images/d/d8/Discovery_Channel_HD_2007.png" group-title="Germany",Discovery Channel  DE - Discovery Channel  DE
+http://cms.bossna-caffe.com:80/live?channelId=195&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="206" tvg-name="De Sky Select 1 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",De Sky Select 1 HD - De Sky Select 1 HD
+http://cms.bossna-caffe.com:80/live?channelId=206&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="9" tvg-name="De Sky Select2 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",De Sky Select2 HD - De Sky Select2 HD
+http://cms.bossna-caffe.com:80/live?channelId=9&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="142" tvg-name="De Sky Select 3 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",De Sky Select 3 HD - De Sky Select 3 HD
+http://media.bossna-caffe.com:80/live?channelId=142&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="331" tvg-name="DE: Sky Select 4 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",DE: Sky Select 4 HD - DE: Sky Select 4 HD
+http://media.bossna-caffe.com:80/live?channelId=331&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="332" tvg-name="De Sky Select 5 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",De Sky Select 5 HD - De Sky Select 5 HD
+http://media.bossna-caffe.com:80/live?channelId=332&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="333" tvg-name="DE: Sky Select 6 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",DE: Sky Select 6 HD - DE: Sky Select 6 HD
+http://media.bossna-caffe.com:80/live?channelId=333&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="335" tvg-name="DE: Sky Select 7 HD" tvg-logo="http://iptv.cardsharebox.com:8000/live/cardsharing/yg4tdh/1111.ts" group-title="Germany",DE: Sky Select 7 HD - DE: Sky Select 7 HD
+http://media.bossna-caffe.com:80/live?channelId=335&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1023" tvg-name="DE: Sky Select 8 HD" tvg-logo="/noicon.png" group-title="Germany",DE: Sky Select 8 HD - DE: Sky Select 8 HD
+http://s6.bossna-caffe.com:80/live?channelId=1023&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="261" tvg-name="De Sky Hits HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",De Sky Hits HD - De Sky Hits HD
+http://cms.bossna-caffe.com:80/live?channelId=261&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="270" tvg-name="PRO 7 HD" tvg-logo="http://www.kidszone.de/screenshots/418x627/2008/04/ProSieben-Logo_mit_Text.jpg" group-title="Germany",PRO 7 HD - PRO 7 HD
+http://cms.bossna-caffe.com:80/live?channelId=270&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="21" tvg-name="De: SKY BUNDESLIGA 1" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Sport",De: SKY BUNDESLIGA 1 - De: SKY BUNDESLIGA 1
+http://cms.bossna-caffe.com:80/live?channelId=21&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="139" tvg-name="De Sport Time" tvg-logo="http://www.sports-time.ch/images/header.jpg?template=personal-042&colorScheme=blue&header=&button=buttons1" group-title="Sport",De Sport Time - De Sport Time
+http://cms.bossna-caffe.com:80/live?channelId=139&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1008" tvg-name="DE: Sky Sport News" tvg-logo="http://nextgen-iptv.com/logo/sky%20sp%20newshd.png" group-title="Sport",DE: Sky Sport News - DE: Sky Sport News
+http://video.bossna-caffe.com:80/live?channelId=1008&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="7" tvg-name="De Sky Sport 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmi88jQ0QhULCu8IuTqiC4xx5M9BRg6wh6Z9htq1pc7Y8ZhMXN1S4Qzuk" group-title="Sport",De Sky Sport 1 - De Sky Sport 1
+http://cms.bossna-caffe.com:80/live?channelId=7&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="149" tvg-name="De Sky Sport 2 HD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzv3Fodx0VzDJ6OVc3FYgJ0PZ2AQP2SI4puvJ8yN4bgV7K9Q8cA" group-title="Sport",De Sky Sport 2 HD - De Sky Sport 2 HD
+http://cms.bossna-caffe.com:80/live?channelId=149&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="588" tvg-name="DE:  DMAX" tvg-logo="http://i714.photobucket.com/albums/ww144/robinsrl01/dmaxlogo3.jpg" group-title="Germany",DE:  DMAX - DE: DMAX
+http://video.bossna-caffe.com:80/live?channelId=588&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="589" tvg-name="AXN HD DE" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c4/AXN_HD_logo.png/revision/latest?cb=20140520122642" group-title="Germany",AXN HD DE - AXN HD DE
+http://s02.bossna-caffe.com:80/live?channelId=589&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="590" tvg-name="DE: MGM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/f/fd/20130619114028!MGM_HD-Channel.png" group-title="Germany",DE: MGM HD - DE: MGM HD
+http://video.bossna-caffe.com:80/live?channelId=590&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1005" tvg-name="MGM HD DE" tvg-logo="/noicon.png" group-title="Germany",MGM HD DE - MGM HD DE
+http://media.bossna-caffe.com:80/live?channelId=1005&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="587" tvg-name="DE: Super RTL" tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2014-04/1398034768_super-rtl-hd-logo.jpg" group-title="Germany",DE: Super RTL - DE: Super RTL
+http://video.bossna-caffe.com:80/live?channelId=587&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="583" tvg-name="DE : NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8f/Nat_Geo_Wild_Variante_Logo.svg/720px-Nat_Geo_Wild_Variante_Logo.svg.png" group-title="Germany",DE : NAT GEO WILD - DE : NAT GEO WILD
+http://cms.bossna-caffe.com:80/live?channelId=583&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="582" tvg-name="DE: Sat 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/c/c8/20120329142914!Sat.1_HD_Logo.png" group-title="Germany",DE: Sat 1 HD - DE: Sat 1 HD
+http://cms.bossna-caffe.com:80/live?channelId=582&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="561" tvg-name="DE: KABEL 1" tvg-logo="http://www.prosiebensat1.de/media/2447934/k1_hd_635x357.jpg" group-title="Germany",DE: KABEL 1 - DE: KABEL 1
+http://cms.bossna-caffe.com:80/live?channelId=561&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="586" tvg-name="DE: RTL NITRO" tvg-logo="http://nextgen-iptv.com/logo/RTLNitro_DE.png" group-title="Germany",DE: RTL NITRO - DE: RTL NITRO
+http://video.bossna-caffe.com:80/live?channelId=586&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="584" tvg-name="Sky Germany History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Germany",Sky Germany History Channel - Sky Germany History Channel
+http://video.bossna-caffe.com:80/live?channelId=584&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1006" tvg-name="UNIVERSAL HD DE" tvg-logo="/noicon.png" group-title="Germany",UNIVERSAL HD DE - UNIVERSAL HD DE
+http://s02.bossna-caffe.com:80/live?channelId=1006&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1014" tvg-name="3 Sat DE" tvg-logo="/noicon.png" group-title="Germany",3 Sat DE - 3 Sat DE
+http://s6.bossna-caffe.com:80/live?channelId=1014&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1015" tvg-name="Das Erste" tvg-logo="/noicon.png" group-title="Germany",Das Erste - Das Erste
+http://s6.bossna-caffe.com:80/live?channelId=1015&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1016" tvg-name="ZDF" tvg-logo="/noicon.png" group-title="Germany",ZDF - ZDF
+http://s6.bossna-caffe.com:80/live?channelId=1016&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1017" tvg-name="Sixx DE" tvg-logo="/noicon.png" group-title="Germany",Sixx DE - Sixx DE
+http://s6.bossna-caffe.com:80/live?channelId=1017&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1018" tvg-name="Phoenix DE" tvg-logo="/noicon.png" group-title="Germany",Phoenix DE - Phoenix DE
+http://s6.bossna-caffe.com:80/live?channelId=1018&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1019" tvg-name="Sky Emotion DE" tvg-logo="/noicon.png" group-title="Germany",Sky Emotion DE - Sky Emotion DE
+http://s6.bossna-caffe.com:80/live?channelId=1019&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1020" tvg-name="Sky Atlantic DE" tvg-logo="/noicon.png" group-title="Germany",Sky Atlantic DE - Sky Atlantic DE
+http://s6.bossna-caffe.com:80/live?channelId=1020&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1021" tvg-name="Sky Germany TNT Serie" tvg-logo="/noicon.png" group-title="Germany",Sky Germany TNT Serie - Sky Germany TNT Serie
+http://s6.bossna-caffe.com:80/live?channelId=1021&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1022" tvg-name="SyFy DE" tvg-logo="/noicon.png" group-title="Germany",SyFy DE - SyFy DE
+http://s6.bossna-caffe.com:80/live?channelId=1022&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1175" tvg-name="SRF 1 HD (Test)" tvg-logo="/noicon.png" group-title="Germany",SRF 1 HD (Test) - SRF 1 HD (Test)
+http://s6.bossna-caffe.com:80/live?channelId=1175&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="419" tvg-name="═════ SPORT ═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwXwA5v-64-6LVSwW6J32_ENHt9ivOHF8o1vYJUkr_efW49Cq1" group-title="Sport",═════ SPORT ═════ - ═════ SPORT ═════
+http://s02.bossna-caffe.com:80/live?channelId=419&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="44" tvg-name="Sport Klub 1 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 Hr - Sport Klub 1 Hr
+http://cms.bossna-caffe.com:80/live?channelId=44&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="45" tvg-name="Sport Klub 2 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 Hr - Sport Klub 2 Hr
+http://cms.bossna-caffe.com:80/live?channelId=45&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="46" tvg-name="Sport Klub 3 Hr" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 Hr - Sport Klub 3 Hr
+http://cms.bossna-caffe.com:80/live?channelId=46&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="601" tvg-name="Sport Klub 4" tvg-logo="/noicon.png" group-title="Sport",Sport Klub 4 - Sport Klub  4
+http://s1.bossna-caffe.com:80/live?channelId=601&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="602" tvg-name="Sport Klub 5" tvg-logo="/noicon.png" group-title="Sport",Sport Klub 5 - Sport Klub 5
+http://s1.bossna-caffe.com:80/live?channelId=602&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="603" tvg-name="Sport Klub 6" tvg-logo="/noicon.png" group-title="Sport",Sport Klub 6 - Sport Klub 6
+http://s1.bossna-caffe.com:80/live?channelId=603&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="254" tvg-name="Sport Klub 1 SR" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sport_klub_hr_1.png" group-title="Sport",Sport Klub 1 SR - Sport Klub 1 SR
+http://cms.bossna-caffe.com:80/live?channelId=254&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="255" tvg-name="Sport Klub 2 SR" tvg-logo="http://media.port-network.com/picture/instance_7/4088349_7.gif" group-title="Sport",Sport Klub 2 SR - Sport Klub 2 SR
+http://cms.bossna-caffe.com:80/live?channelId=255&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="256" tvg-name="Sport Klub 3 SR" tvg-logo="http://www.sbb.rs/upload/images/tv_logo_434.jpg" group-title="Sport",Sport Klub 3 SR - Sport Klub 3 SR
+http://cms.bossna-caffe.com:80/live?channelId=256&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="52" tvg-name="Arena Sport 1 (HR)" tvg-logo="http://mportal.com.hr/files/uploads/images/440x700/arena_logo.gif" group-title="Sport",Arena Sport 1 (HR) - Arena Sport 1 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=52&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="53" tvg-name="Arena Sport 2  (HR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2  (HR) - Arena Sport 2  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=53&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="54" tvg-name="Arena Sport 3 (HR)" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 (HR) - Arena Sport 3 (HR)
+http://cms.bossna-caffe.com:80/live?channelId=54&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="88" tvg-name="Arena Sport 4  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4  (HR) - Arena Sport 4  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=88&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="178" tvg-name="Arena Sport 5  (HR)" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5  (HR) - Arena Sport 5  (HR)
+http://cms.bossna-caffe.com:80/live?channelId=178&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="187" tvg-name="Arena Sports 1 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sports 1 (SR) - Arena Sports 1 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=187&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="188" tvg-name="Arena Sports 2 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sports 2 (SR) - Arena Sports 2 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=188&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="189" tvg-name="Arena Sports 3 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sports 3 (SR) - Arena Sports 3 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=189&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="190" tvg-name="Arena Sports 4 (SR)" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sports 4 (SR) - Arena Sports 4 (SR)
+http://cms.bossna-caffe.com:80/live?channelId=190&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="211" tvg-name="Arena Sport 5 SR" tvg-logo="http://www.bhb.ba/upload/images/files.jpg" group-title="Sport",Arena Sport 5 SR - Arena Sport 5 SR
+http://cms.bossna-caffe.com:80/live?channelId=211&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="29" tvg-name="Eurosport" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport - Eurosport
+http://cms.bossna-caffe.com:80/live?channelId=29&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="150" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
+http://cms.bossna-caffe.com:80/live?channelId=150&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="26" tvg-name="Sky Sports 1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 - Sky Sports 1
+http://s02.bossna-caffe.com:80/live?channelId=26&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="90" tvg-name="Sky Sports 2" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 - Sky Sports 2
+http://s02.bossna-caffe.com:80/live?channelId=90&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports 3" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 - Sky Sports 3
+http://s02.bossna-caffe.com:80/live?channelId=65&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="91" tvg-name="Sky Sports 4" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 - Sky Sport 4
+http://cms.bossna-caffe.com:80/live?channelId=91&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="593" tvg-name="Sky Sports F1 UK" tvg-logo="/noicon.png" group-title="Sport",Sky Sports F1 UK - Sky Sports F1 UK
+http://video.bossna-caffe.com:80/live?channelId=593&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="466" tvg-name="Bein Sport 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sport 1 - Bein Sport 1
+http://s02.bossna-caffe.com:80/live?channelId=466&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="374" tvg-name="BEINSPORT-2HD" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",BEINSPORT-2HD - BEINSPORT-2HD
+http://s02.bossna-caffe.com:80/live?channelId=374&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="463" tvg-name="Bein Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sport 3 - Bein Sport 3
+http://s02.bossna-caffe.com:80/live?channelId=463&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="375" tvg-name="BEINSPORT-4HD" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",BEINSPORT-4HD - BEINSPORT-4HD
+http://s02.bossna-caffe.com:80/live?channelId=375&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="464" tvg-name="Bein Sport 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sport 5 - Bein Sport 5
+http://s02.bossna-caffe.com:80/live?channelId=464&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="465" tvg-name="Bein Sport 6" tvg-logo="http://www.new-tubes.net/file/2015/01/bein-sport-hd6.jpg" group-title="Sport",Bein Sport 6 - Bein Sport 6
+http://s02.bossna-caffe.com:80/live?channelId=465&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="467" tvg-name="Bein Sport 7" tvg-logo="http://tgo-tv.com/images/tv/beIN7.jpg" group-title="Sport",Bein Sport 7 - Bein Sport 7
+http://s02.bossna-caffe.com:80/live?channelId=467&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="468" tvg-name="Bein Sport 8" tvg-logo="http://www.teledusat.com/uploads/articles/10e6fe68.jpg" group-title="Sport",Bein Sport 8 - Bein Sport 8
+http://s02.bossna-caffe.com:80/live?channelId=468&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="469" tvg-name="Bein Sport 9" tvg-logo="http://www.teledusat.com/uploads/articles/272f78eb.jpg" group-title="Sport",Bein Sport 9 - Bein Sport 9
+http://s02.bossna-caffe.com:80/live?channelId=469&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="461" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 - FOX Sports 1
+http://s02.bossna-caffe.com:80/live?channelId=461&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="462" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 - FOX Sports 2
+http://s02.bossna-caffe.com:80/live?channelId=462&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="460" tvg-name="FOX Sports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Fox_Sports_3_001.png" group-title="Sport",FOX Sports3 - FOX Sports3
+http://s02.bossna-caffe.com:80/live?channelId=460&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="455" tvg-name="BT Sport 1" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 - BT Sport 1
+http://s02.bossna-caffe.com:80/live?channelId=455&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="456" tvg-name="BT Sport 2" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 - BT Sport 2
+http://s02.bossna-caffe.com:80/live?channelId=456&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="366" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sport",NBA TV - NBA TV
+http://s02.bossna-caffe.com:80/live?channelId=366&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="471" tvg-name="Motors UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors UK - Motors UK
+http://s02.bossna-caffe.com:80/live?channelId=471&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="457" tvg-name="SPORTTIME TV1" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",SPORTTIME TV1 - SPORTTIME TV1
+http://s02.bossna-caffe.com:80/live?channelId=457&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="459" tvg-name="SPORTTIME TV3" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",SPORTTIME TV3 - SPORTTIME TV3
+http://s02.bossna-caffe.com:80/live?channelId=459&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="458" tvg-name="SPORTTIME TV2" tvg-logo="http://2.bp.blogspot.com/-btnslDl_S6o/VLxDt95-9gI/AAAAAAAAB0A/7zGyAtGpk7U/s1600/MTV.png" group-title="Sport",SPORTTIME TV2 - SPORTTIME TV2
+http://s02.bossna-caffe.com:80/live?channelId=458&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="470" tvg-name="Barca TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV - Barca TV
+http://s02.bossna-caffe.com:80/live?channelId=470&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="361" tvg-name="REAL MADRID TV & Liverpool TV" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",REAL MADRID TV & Liverpool TV - REAL MADRID TV & Liverpool TV
+http://s02.bossna-caffe.com:80/live?channelId=361&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="341" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sport",Manchester TV - Manchester TV
+http://media.bossna-caffe.com:80/live?channelId=341&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="316" tvg-name="Lig TV1 HD" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/04/ligb.jpeg" group-title="Sport",Lig TV1 HD - Lig TV1 HD
+http://video.bossna-caffe.com:80/live?channelId=316&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="421" tvg-name="═════ UK/USA═════" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6VtQ_IjYh2W4_P7acz90M9I7Rv_AVXWVld3nh4HIDQMQuPN5UkjcSqCA2" group-title="International",═════ UK/USA═════ - ═════ UK/USA═════
+http://s02.bossna-caffe.com:80/live?channelId=421&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="620" tvg-name="RTE One UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/250px-RT%C3%89_One_2014.svg.png" group-title="International",RTE One UK - RTE One UK
+http://video.bossna-caffe.com:80/live?channelId=620&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="621" tvg-name="RTE Two UK" tvg-logo="http://vozplus.com/wp-content/uploads/rte_two.png" group-title="International",RTE Two UK - RTE Two UK
+http://video.bossna-caffe.com:80/live?channelId=621&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="429" tvg-name="UK Watch" tvg-logo="http://img3.wikia.nocookie.net/__cb20130408114137/logopedia/images/thumb/6/66/UKTV_2013_Print.svg/304px-UKTV_2013_Print.svg.png" group-title="International",UK Watch - UK Watch
+http://s02.bossna-caffe.com:80/live?channelId=429&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="351" tvg-name="UK Sky Movies Showcase" tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/Showcase.png_512767369.png" group-title="International",UK Sky Movies Showcase - UK Sky Movies Showcase
+http://media.bossna-caffe.com:80/live?channelId=351&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="171" tvg-name="UK Sky Movies Action & Adventure" tvg-logo="http://img4.wikia.nocookie.net/__cb20140329135514/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png" group-title="Movies",UK Sky Movies Action & Adventure - UK Sky Movies Action & Adventure
+http://s02.bossna-caffe.com:80/live?channelId=171&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="473" tvg-name="UK Sky Movies Sci-Fi & Horror" tvg-logo="http://nextgen-iptv.com/Logos/mov/sky%20scfi%20horror.png" group-title="Movies",UK Sky Movies Sci-Fi & Horror - UK Sky Movies Sci-Fi & Horror
+http://cms.bossna-caffe.com:80/live?channelId=473&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="472" tvg-name="UK Sky One" tvg-logo="http://nextgen-iptv.com/Logos/int/sky_uk_1.png" group-title="International",UK Sky One - UK Sky One
+http://cms.bossna-caffe.com:80/live?channelId=472&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="137" tvg-name="Discovery ID (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png" group-title="International",Discovery ID (UK) - Discovery ID (UK)
+http://cms.bossna-caffe.com:80/live?channelId=137&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="345" tvg-name="UK Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" group-title="International",UK Discovery Home & Health - UK Discovery Home & Health
+http://media.bossna-caffe.com:80/live?channelId=345&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="474" tvg-name="UK Discovery Turbo" tvg-logo="http://nextgen-iptv.com/Logos/int/discovery_turbo_us.png" group-title="International",UK Discovery Turbo - UK Discovery Turbo
+http://media.bossna-caffe.com:80/live?channelId=474&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="284" tvg-name="History Channel 2 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS4C6yUCCplQefNCV60kAGIhfVQCOErUvDMG5DhcF4rIqiJtpsal9RPFF2qw" group-title="International",History Channel 2 UK - History Channel 2 UK
+http://cms.bossna-caffe.com:80/live?channelId=284&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="428" tvg-name="Uk TRUE MOVIES" tvg-logo="http://www.alexmusic.net/tele/tvshots/1201/truemovies.jpg" group-title="International",Uk TRUE MOVIES - Uk TRUE MOVIES
+http://video.bossna-caffe.com:80/live?channelId=428&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="346" tvg-name="UK CNN News" tvg-logo="http://www.louiseboursmep.co.uk/wp-content/uploads/2015/04/cnn-logo.jpg" group-title="International",UK CNN News - UK CNN News
+http://media.bossna-caffe.com:80/live?channelId=346&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="344" tvg-name="UK Sky News" tvg-logo="http://maritimerisk.files.wordpress.com/2012/04/sky_news_2007.png" group-title="International",UK Sky News - UK Sky News
+http://media.bossna-caffe.com:80/live?channelId=344&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="372" tvg-name="UK Comedy Central" tvg-logo="http://suchsmallportions.com/sites/default/files/images/comedy-central.jpg" group-title="International",UK Comedy Central - UK Comedy Central
+http://media.bossna-caffe.com:80/live?channelId=372&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1130" tvg-name="BBC One UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC One UK - BBC One UK
+http://s6.bossna-caffe.com:80/live?channelId=1130&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1131" tvg-name="BBC Two UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Two UK - BBC Two UK
+http://s6.bossna-caffe.com:80/live?channelId=1131&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1132" tvg-name="BBC Three UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Three UK - BBC Three UK
+http://s6.bossna-caffe.com:80/live?channelId=1132&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1133" tvg-name="BBC Four UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Four UK - BBC Four UK
+http://s6.bossna-caffe.com:80/live?channelId=1133&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1134" tvg-name="Discovery Science UK" tvg-logo="http://i.imgur.com/jieYNai.jpg" group-title="International",Discovery Science UK - Discovery Science UK
+http://s6.bossna-caffe.com:80/live?channelId=1134&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1135" tvg-name="Sky Movies Premiere UK" tvg-logo="http://i.imgur.com/2eObPwQ.jpg" group-title="International",Sky Movies Premiere UK - Sky Movies Premiere UK
+http://s6.bossna-caffe.com:80/live?channelId=1135&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1136" tvg-name="Sky Movies Family UK" tvg-logo="http://i.imgur.com/oDhkdpn.jpg" group-title="International",Sky Movies Family UK - Sky Movies Family UK
+http://s6.bossna-caffe.com:80/live?channelId=1136&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1137" tvg-name="Sky Movies Drama & Romance UK" tvg-logo="http://i.imgur.com/bgyrFrP.jpg" group-title="International",Sky Movies Drama & Romance UK - Sky Movies Drama & Romance UK
+http://s6.bossna-caffe.com:80/live?channelId=1137&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1138" tvg-name="Sky Movies Greats UK" tvg-logo="http://i.imgur.com/61VYCv6.png" group-title="International",Sky Movies Greats UK - Sky Movies Greats UK
+http://s6.bossna-caffe.com:80/live?channelId=1138&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="422" tvg-name="═════ALBANIAN═════" tvg-logo="http://img3.etsystatic.com/002/0/7262042/il_fullxfull.381375079_hv5v.jpg" group-title="International",═════ALBANIAN═════ - ═════ALBANIAN═════
+http://media.bossna-caffe.com:80/live?channelId=422&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1139" tvg-name="AL: ABC News" tvg-logo="http://i.imgur.com/SzWt19v.jpg" group-title="International",AL: ABC News - AL: ABC News
+http://s6.bossna-caffe.com:80/live?channelId=1139&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="475" tvg-name="Rtk1" tvg-logo="https://static-media.streema.com/media/cache/a0/0e/a00e5cb98ad727a94e0462afc28edac8.jpg" group-title="International",Rtk1 - Rtk1
+http://cms.bossna-caffe.com:80/live?channelId=475&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="357" tvg-name="AL KTV" tvg-logo="http://mm.primedb.net/theweb/sq/images/Clients/KTV.jpg" group-title="International",AL KTV - AL KTV
+http://s02.bossna-caffe.com:80/live?channelId=357&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="446" tvg-name="RTV 21 PLUS" tvg-logo="http://www.amchamksv.org/images/userfiles/images/th_7816_92c01d563e8394d5b78c18086.png" group-title="International",RTV 21 PLUS - RTV 21 PLUS
+http://s02.bossna-caffe.com:80/live?channelId=446&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="384" tvg-name="Al 21 HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4-DkTQP1bHXTpW8lsnEfhnqSMtaLJyMA_vtfxErOT8HcLB-En" group-title="International",Al 21 HD - Al 21 HD
+http://video.bossna-caffe.com:80/live?channelId=384&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="454" tvg-name="Al RTV 21 Popullore" tvg-logo="https://lh3.googleusercontent.com/-QvbIcJrqEJc/UmKnq4ltAnI/AAAAAAAAAzc/pzsx62PXC7Y/w259-h216-no/rtv-21-popullore-hd.png" group-title="International",Al RTV 21 Popullore - Al RTV 21 Popullore
+http://s02.bossna-caffe.com:80/live?channelId=454&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="382" tvg-name="AL Top News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Top-news-logo.png" group-title="International",AL Top News - AL Top News
+http://s02.bossna-caffe.com:80/live?channelId=382&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="478" tvg-name="Top Kanal" tvg-logo="http://static.tvlive32.com/logo/Top-Channel_3041.jpg" group-title="International",Top Kanal - Top Kanal
+http://s1.bossna-caffe.com:80/live?channelId=478&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1152" tvg-name="AL: Tip TV" tvg-logo="/noicon.png" group-title="International",AL: Tip TV - AL: Tip TV
+http://s6.bossna-caffe.com:80/live?channelId=1152&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1140" tvg-name="AL: TVSH" tvg-logo="/noicon.png" group-title="International",AL: TVSH - AL: TVSH
+http://s6.bossna-caffe.com:80/live?channelId=1140&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="378" tvg-name="AL Klan" tvg-logo="http://www.cloud-tivu.net/Blog/wp-content/uploads/2014/02/Tv-Klan-in-live-Streaming.png" group-title="International",AL Klan - AL Klan
+http://s02.bossna-caffe.com:80/live?channelId=378&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="379" tvg-name="AL Klan Kosova" tvg-logo="http://www.lezha.eu/wp-content/uploads/2012/06/klan-kosova.jpg" group-title="International",AL Klan Kosova - AL Klan Kosova
+http://s02.bossna-caffe.com:80/live?channelId=379&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="477" tvg-name="Vizion plus" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100319q.png" group-title="International",Vizion plus - Vizion plus
+http://video.bossna-caffe.com:80/live?channelId=477&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="377" tvg-name="AL Alsat M" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/alsat-300x150.png" group-title="International",AL Alsat M - AL Alsat M
+http://cms.bossna-caffe.com:80/live?channelId=377&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="451" tvg-name="ALB FIRST 1" tvg-logo="https://pbs.twimg.com/profile_images/461143248379998208/ULLAcf3x.jpeg" group-title="International",ALB FIRST 1 - ALB FIRST 1
+http://s02.bossna-caffe.com:80/live?channelId=451&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="479" tvg-name="Alb Junior" tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Junior-designstyle-colors-m.png" group-title="International",Alb Junior - Alb Junior
+http://cms.bossna-caffe.com:80/live?channelId=479&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="385" tvg-name="Al Cufo TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cufo_tv.jpg" group-title="International",Al Cufo TV - Al Cufo TV
+http://video.bossna-caffe.com:80/live?channelId=385&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="453" tvg-name="ALB FolkLorit" tvg-logo="http://telenet.com.mk/images/channels/folklorit.png" group-title="International",ALB FolkLorit - ALB FolkLorit
+http://s02.bossna-caffe.com:80/live?channelId=453&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="450" tvg-name="AL FOLK PLUS" tvg-logo="https://i.ytimg.com/i/3slCmnW9jb9HH3V_mehVLQ/1.jpg" group-title="International",AL FOLK PLUS - AL FOLK PLUS
+http://media.bossna-caffe.com:80/live?channelId=450&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1141" tvg-name="AL: Film Autor" tvg-logo="/noicon.png" group-title="International",AL: Film Autor - AL: Film Autor
+http://s6.bossna-caffe.com:80/live?channelId=1141&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1142" tvg-name="AL: Film Aksion" tvg-logo="/noicon.png" group-title="International",AL: Film Aksion - AL: Film Aksion
+http://s6.bossna-caffe.com:80/live?channelId=1142&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="353" tvg-name="AL Film Drame" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_drame.jpg" group-title="International",AL Film Drame - AL Film Drame
+http://s02.bossna-caffe.com:80/live?channelId=353&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1144" tvg-name="AL: Film Dy" tvg-logo="/noicon.png" group-title="International",AL: Film Dy - AL: Film Dy
+http://s6.bossna-caffe.com:80/live?channelId=1144&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="355" tvg-name="AL Film Hits" tvg-logo="https://lh3.googleusercontent.com/-gx6bwt78qbc/VAsqKqXsBzI/AAAAAAAABck/lLpz2OSRq7g/w402-h125-no/filmhits.jpg" group-title="International",AL Film Hits - AL Film Hits
+http://s02.bossna-caffe.com:80/live?channelId=355&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1143" tvg-name="AL: Film Nje" tvg-logo="/noicon.png" group-title="International",AL: Film Nje - AL: Film Nje
+http://s6.bossna-caffe.com:80/live?channelId=1143&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="356" tvg-name="AL Film Thriller" tvg-logo="https://lh3.googleusercontent.com/-L3TqzRN9B7s/VJ7r5Dus62I/AAAAAAAABgI/AfKaNdp1oXE/w800-h250-no/digit_alb_thriller.png" group-title="International",AL Film Thriller - AL Film Thriller
+http://s02.bossna-caffe.com:80/live?channelId=356&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="391" tvg-name="AL Film Komedi" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA9SPCchQbGVUa3QczbNEP_p3AgbrPyPzgRwFGiXn4FFZSSBSw" group-title="International",AL Film Komedi - AL Film Komedi
+http://s02.bossna-caffe.com:80/live?channelId=391&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="390" tvg-name="AL Tring Shqip" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_shqip.jpg" group-title="International",AL Tring Shqip - AL Tring Shqip
+http://s02.bossna-caffe.com:80/live?channelId=390&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="360" tvg-name="Al Tring Fantazy" tvg-logo="https://lh6.googleusercontent.com/-SOFgnVYTMRA/Ukl4ngdUp7I/AAAAAAAAAao/vSvIgAz_nVE/w549-h320-no/tv-tring_fantasy.png" group-title="International",Al Tring Fantazy - Al Tring Fantazy
+http://s02.bossna-caffe.com:80/live?channelId=360&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="367" tvg-name="Al Tring Comedy" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/tring_comedy-1728x800_c.png" group-title="International",Al Tring Comedy - Al Tring Comedy
+http://s02.bossna-caffe.com:80/live?channelId=367&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="369" tvg-name="Al Tring Tring" tvg-logo="https://lh4.googleusercontent.com/-dfNCaiFyhRc/UlKi-8XkSCI/AAAAAAAAAoM/hoij5dp9Uqk/w576-h339-no/tring_3plus.png" group-title="International",Al Tring Tring - Al Tring Tring
+http://s02.bossna-caffe.com:80/live?channelId=369&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="388" tvg-name="AL Tring History" tvg-logo="https://lh6.googleusercontent.com/-kixUsod6EgQ/UmFa2LHjWtI/AAAAAAAAAvY/xL46NCVUZ08/w592-h358-no/tring-history.png" group-title="International",AL Tring History - AL Tring History
+http://s02.bossna-caffe.com:80/live?channelId=388&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="392" tvg-name="AL Explorer History" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Explorer-Histori_o.jpg" group-title="International",AL Explorer History - AL Explorer History
+http://video.bossna-caffe.com:80/live?channelId=392&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="381" tvg-name="AL Top Channel" tvg-logo="https://i.ytimg.com/vi/Wlq3RheWyOw/maxresdefault.jpg" group-title="International",AL Top Channel - AL Top Channel
+http://s02.bossna-caffe.com:80/live?channelId=381&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="394" tvg-name="AL Explorer Natyra" tvg-logo="http://iptv.cardsharebox.com:8000/live/cardsharing/yg4tdh/982.ts" group-title="International",AL Explorer Natyra - AL Explorer Natyra
+http://cms.bossna-caffe.com:80/live?channelId=394&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="393" tvg-name="AL Explorer Shkence" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/explorershkence-1728x800_c.png" group-title="International",AL Explorer Shkence - AL Explorer Shkence
+http://s02.bossna-caffe.com:80/live?channelId=393&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="386" tvg-name="AL Supersport Kosova 1" tvg-logo="http://www.tvim.tv/19122012/images/channels/120x60px/SuperSportKosova-1_120x60px.png" group-title="International",AL Supersport Kosova 1 - AL Supersport Kosova 1
+http://s02.bossna-caffe.com:80/live?channelId=386&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="362" tvg-name="Al Super Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport_hd1.jpg" group-title="International",Al Super Sport 1 - Al Super Sport 1
+http://s02.bossna-caffe.com:80/live?channelId=362&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="363" tvg-name="Al Super Sport 2" tvg-logo="http://albet.do.am/TvICON/supersportks2.png" group-title="International",Al Super Sport 2 - Al Super Sport 2
+http://media.bossna-caffe.com:80/live?channelId=363&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="364" tvg-name="Al Super Sport 3" tvg-logo="http://tvshqiphd.com/images/sport/ss3hd.png" group-title="International",Al Super Sport 3 - Al Super Sport 3
+http://media.bossna-caffe.com:80/live?channelId=364&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="376" tvg-name="Al Super Sport 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport_hd1.jpg" group-title="International",Al Super Sport 4 - Al Super Sport 4
+http://media.bossna-caffe.com:80/live?channelId=376&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1145" tvg-name="AL: Digi Gold" tvg-logo="/noicon.png" group-title="International",AL: Digi Gold - AL: Digi Gold
+http://s6.bossna-caffe.com:80/live?channelId=1145&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1146" tvg-name="AL: Bang Bang" tvg-logo="/noicon.png" group-title="International",AL: Bang Bang - AL: Bang Bang
+http://s6.bossna-caffe.com:80/live?channelId=1146&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1147" tvg-name="AL: Tring Super" tvg-logo="/noicon.png" group-title="International",AL: Tring Super - AL: Tring Super
+http://s6.bossna-caffe.com:80/live?channelId=1147&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1148" tvg-name="AL: Tring MAX" tvg-logo="/noicon.png" group-title="International",AL: Tring MAX - AL: Tring MAX
+http://s6.bossna-caffe.com:80/live?channelId=1148&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1149" tvg-name="AL: Tring Life" tvg-logo="/noicon.png" group-title="International",AL: Tring Life - AL: Tring Life
+http://s6.bossna-caffe.com:80/live?channelId=1149&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1150" tvg-name="AL: Tring Planet" tvg-logo="/noicon.png" group-title="International",AL: Tring Planet - AL: Tring Planet
+http://s6.bossna-caffe.com:80/live?channelId=1150&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1151" tvg-name="AL: Tring World" tvg-logo="/noicon.png" group-title="International",AL: Tring World - AL: Tring World
+http://s6.bossna-caffe.com:80/live?channelId=1151&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1153" tvg-name="AL: Tring Sport 1" tvg-logo="/noicon.png" group-title="International",AL: Tring Sport 1 - AL: Tring Sport 1
+http://s6.bossna-caffe.com:80/live?channelId=1153&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1154" tvg-name="AL: Tring Sport 2" tvg-logo="/noicon.png" group-title="International",AL: Tring Sport 2 - AL: Tring Sport 2
+http://s6.bossna-caffe.com:80/live?channelId=1154&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="585" tvg-name="═════ITALY═════" tvg-logo="/noicon.png" group-title="International",═════ITALY═════ - ═════ITALY═════
+http://video.bossna-caffe.com:80/live?channelId=585&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="512" tvg-name="IT: FOX LIFE HD" tvg-logo="https://pbs.twimg.com/profile_images/562309823081893889/GOJMjydb.png" group-title="International",IT: FOX LIFE HD - IT: FOX LIFE HD
+http://video.bossna-caffe.com:80/live?channelId=512&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="513" tvg-name="IT: Cinema Family HD" tvg-logo="http://cdn.blogosfere.it/pellicolerovinate/images/532px-Sky_Cinema_Family.svg.png" group-title="International",IT: Cinema Family HD - IT: Cinema Family HD
+http://video.bossna-caffe.com:80/live?channelId=513&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="514" tvg-name="IT: Sky Italia NatGeo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="International",IT: Sky Italia NatGeo Wild HD - IT: Sky Italia NatGeo Wild HD
+http://video.bossna-caffe.com:80/live?channelId=514&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="515" tvg-name="IT: Premium Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/DisneyChannel1997.png" group-title="International",IT: Premium Disney Channel - IT: Premium Disney Channel
+http://video.bossna-caffe.com:80/live?channelId=515&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="516" tvg-name="IT: SKY CINEMA 1 HD" tvg-logo="http://www.lospettacolo.it/guidatv/loghi_canali/SKY1.png" group-title="International",IT: SKY CINEMA 1 HD - IT: SKY CINEMA 1 HD
+http://video.bossna-caffe.com:80/live?channelId=516&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="517" tvg-name="IT: RSI La1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/220px-RSI_La_1_2012.svg.png" group-title="International",IT: RSI La1 HD - IT: RSI La1 HD
+http://video.bossna-caffe.com:80/live?channelId=517&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="518" tvg-name="IT: RAI1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2000px-Rai_1_HD_Logo.svg.png" group-title="International",IT: RAI1 HD - IT: RAI1 HD
+http://video.bossna-caffe.com:80/live?channelId=518&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="519" tvg-name="IT: Sky Cinema Cult HD" tvg-logo="http://presentationarchive.com/skycinema/cinemacult-f.jpg" group-title="International",IT: Sky Cinema Cult HD - IT: Sky Cinema Cult HD
+http://video.bossna-caffe.com:80/live?channelId=519&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="520" tvg-name="IT: Sky Atlantic HD" tvg-logo="http://www.digital-news.it/files-admin/Simone/sky-atlantic-hd-logo.jpg" group-title="International",IT: Sky Atlantic HD - IT: Sky Atlantic HD
+http://video.bossna-caffe.com:80/live?channelId=520&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="521" tvg-name="IT: Premium Sport HD" tvg-logo="http://img.mediaset.it/bin/10.$plit/C_116_canali_36_upiLogo.jpg" group-title="International",IT: Premium Sport HD - IT: Premium Sport HD
+http://video.bossna-caffe.com:80/live?channelId=521&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="522" tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="International",IT: Sky Sport F1 HD - IT: Sky Sport F1 HD
+http://video.bossna-caffe.com:80/live?channelId=522&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="523" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b6/Sky_Comedy.png/revision/latest?cb=20130719155702" group-title="International",IT: Sky Cinema Comedy HD - IT: Sky Cinema Comedy HD
+http://video.bossna-caffe.com:80/live?channelId=523&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="524" tvg-name="IT: Premium JOI" tvg-logo="http://static.televisionando.it/625X0/www/televisionando/it/img/joi-mediaset-premium.jpg" group-title="International",IT: Premium JOI - IT: Premium JOI
+http://video.bossna-caffe.com:80/live?channelId=524&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="527" tvg-name="IT: Premium Cinema 2 HD" tvg-logo="http://www.mediasetpremium.it/bin/3.$plit/C_54_articolo_3858_imgarticolo.jpg" group-title="International",IT: Premium Cinema 2 HD - IT: Premium Cinema 2 HD
+http://video.bossna-caffe.com:80/live?channelId=527&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="528" tvg-name="IT: Premium Calcio 1" tvg-logo="http://img.mediaset.it/bin/36.$plit/C_116_canali_35_upiLogo.jpg" group-title="International",IT: Premium Calcio 1 - IT: Premium Calcio 1
+http://video.bossna-caffe.com:80/live?channelId=528&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="530" tvg-name="IT: Cinema Max HD" tvg-logo="http://www.lospettacolo.it/guidatv/loghi_canali/SKYMAX.png" group-title="International",IT: Cinema Max HD - IT: Cinema Max HD
+http://cms.bossna-caffe.com:80/live?channelId=530&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="531" tvg-name="IT: Premium Crime HD" tvg-logo="http://www.mediasetpremium.it/bin/54.$plit/C_54_articolo_739_imgarticolo.jpg" group-title="International",IT: Premium Crime HD - IT: Premium Crime HD
+http://video.bossna-caffe.com:80/live?channelId=531&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="532" tvg-name="IT: Premium Action HD" tvg-logo="http://www.mediasetpremium.it/bin/82.$plit/C_54_articolo_248_imgarticolo.jpg" group-title="International",IT: Premium Action HD - IT: Premium Action HD
+http://video.bossna-caffe.com:80/live?channelId=532&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="534" tvg-name="ITALIAN | Sky Calcio 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="International",ITALIAN | Sky Calcio 2 - ITALIAN | Sky Calcio 2
+http://video.bossna-caffe.com:80/live?channelId=534&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="535" tvg-name="ITALIAN | Sky Calcio 3" tvg-logo="http://www.sky.it/statics/images/offerta-sky/canali/calcio/hd/Sky-Calcio-3-HD.jpg" group-title="International",ITALIAN | Sky Calcio 3 - ITALIAN | Sky Calcio 3
+http://video.bossna-caffe.com:80/live?channelId=535&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="536" tvg-name="ITALIAN | Sky Calcio 4" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="International",ITALIAN | Sky Calcio 4 - ITALIAN | Sky Calcio 4
+http://video.bossna-caffe.com:80/live?channelId=536&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="537" tvg-name="ITALIAN | Sky Calcio 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="International",ITALIAN | Sky Calcio 5 - ITALIAN | Sky Calcio 5
+http://video.bossna-caffe.com:80/live?channelId=537&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="538" tvg-name="ITALIAN | Sky Calcio 6" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/08/Sky-Calcio-HD-logo.jpg" group-title="International",ITALIAN | Sky Calcio 6 - ITALIAN | Sky Calcio 6
+http://video.bossna-caffe.com:80/live?channelId=538&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="539" tvg-name="ITALIAN | Sky Calcio 7" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/08/Sky-Calcio-HD-logo.jpg" group-title="International",ITALIAN | Sky Calcio 7 - ITALIAN | Sky Calcio 7
+http://video.bossna-caffe.com:80/live?channelId=539&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="540" tvg-name="ITALIAN | Sky Supercalcio" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8673_home.png" group-title="International",ITALIAN | Sky Supercalcio - ITALIAN | Sky Supercalcio
+http://video.bossna-caffe.com:80/live?channelId=540&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="409" tvg-name="ITALIAN | Sky Sport 1 HD (IT)" tvg-logo="http://zurandau.de/wp-content/uploads/2015/02/800px-Sky_Sport_HD_1_off-air_2011.png" group-title="Sport",ITALIAN | Sky Sport 1 HD (IT) - ITALIAN | Sky Sport 1 HD (IT)
+http://s02.bossna-caffe.com:80/live?channelId=409&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="542" tvg-name="ITALIAN | Sky Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2Lh_Mna8gZx-tnNEqQKDJt06xMuy7UQgsbVfcPub02zUZ-l2tg" group-title="International",ITALIAN | Sky Sport 2 - ITALIAN | Sky Sport 2
+http://video.bossna-caffe.com:80/live?channelId=542&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="544" tvg-name="ITALIAN | Sky Sport 3" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="International",ITALIAN | Sky Sport 3 - ITALIAN | Sky Sport 3
+http://video.bossna-caffe.com:80/live?channelId=544&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="543" tvg-name="ITALIAN | Sky Sport 24" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/68/Sky_Sport24-1-.svg" group-title="International",ITALIAN | Sky Sport 24 - ITALIAN | Sky Sport 24
+http://video.bossna-caffe.com:80/live?channelId=543&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="547" tvg-name="ITALIAN | Sky Disney Junior" tvg-logo="http://s7.postimg.org/5oxbj7na3/Disney_Junior_HD.jpg" group-title="International",ITALIAN | Sky Disney Junior - ITALIAN | Sky Disney Junior
+http://video.bossna-caffe.com:80/live?channelId=547&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="548" tvg-name="ITALIAN | Sky Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="International",ITALIAN | Sky Disney XD - ITALIAN | Sky Disney XD
+http://video.bossna-caffe.com:80/live?channelId=548&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="549" tvg-name="ITALIAN | Sky Cartoon Network" tvg-logo="http://www.turnermediainnovations.com/wp-content/uploads/2013/12/Cartoon-Network-11.jpg" group-title="International",ITALIAN | Sky Cartoon Network - ITALIAN | Sky Cartoon Network
+http://video.bossna-caffe.com:80/live?channelId=549&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="550" tvg-name="ITALIAN | History" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="International",ITALIAN | History - ITALIAN | History
+http://video.bossna-caffe.com:80/live?channelId=550&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="554" tvg-name="ITALIAN | Discovery Channel" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637" group-title="International",ITALIAN | Discovery Channel - ITALIAN | Discovery Channel
+http://video.bossna-caffe.com:80/live?channelId=554&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="555" tvg-name="ITALIAN | Discovery World" tvg-logo="http://www.adslzone.tv/app/uploads/2011/04/logo-discovery-world-hd.png" group-title="International",ITALIAN | Discovery World - ITALIAN | Discovery World
+http://video.bossna-caffe.com:80/live?channelId=555&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="556" tvg-name="ITALIAN | Dmax" tvg-logo="http://www.dmax.de/dni-media/mu-65/media-75379-271303.jpg" group-title="International",ITALIAN | Dmax - ITALIAN | Dmax
+http://video.bossna-caffe.com:80/live?channelId=556&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1010" tvg-name="═════France═════" tvg-logo="/noicon.png" group-title="International",═════France═════ - ═════France═════
+http://s02.bossna-caffe.com:80/live?channelId=1010&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="944" tvg-name="FR: TF1 HD" tvg-logo="/noicon.png" group-title="International",FR: TF1 HD - FR: TF1 HD
+http://cms.bossna-caffe.com:80/live?channelId=944&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="945" tvg-name="FR:M6 HD" tvg-logo="/noicon.png" group-title="International",FR:M6 HD - FR:M6 HD
+http://s1.bossna-caffe.com:80/live?channelId=945&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="948" tvg-name="FR: RTL 9 HD" tvg-logo="/noicon.png" group-title="International",FR: RTL 9 HD - FR: RTL 9 HD
+http://s1.bossna-caffe.com:80/live?channelId=948&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="946" tvg-name="FR: CANAL + Sport" tvg-logo="/noicon.png" group-title="International",FR: CANAL + Sport - FR: CANAL + Sport
+http://s1.bossna-caffe.com:80/live?channelId=946&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="947" tvg-name="FR: Canal+ Cinema HD" tvg-logo="/noicon.png" group-title="International",FR: Canal+ Cinema HD - FR: Canal+ Cinema HD
+http://s1.bossna-caffe.com:80/live?channelId=947&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="949" tvg-name="FR_EUROSPORT1" tvg-logo="/noicon.png" group-title="International",FR_EUROSPORT1 - FR_EUROSPORT1
+http://s1.bossna-caffe.com:80/live?channelId=949&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="950" tvg-name="FR: Discovery HD" tvg-logo="/noicon.png" group-title="International",FR: Discovery HD - FR: Discovery HD
+http://s1.bossna-caffe.com:80/live?channelId=950&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="951" tvg-name="FR: NATIONAL GEOGRAPHIE" tvg-logo="/noicon.png" group-title="International",FR: NATIONAL GEOGRAPHIE - FR: NATIONAL GEOGRAPHIE
+http://s1.bossna-caffe.com:80/live?channelId=951&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="952" tvg-name="FR:  TMC HD" tvg-logo="/noicon.png" group-title="International",FR:  TMC HD - FR:  TMC HD
+http://s1.bossna-caffe.com:80/live?channelId=952&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="953" tvg-name="FR: AB1" tvg-logo="/noicon.png" group-title="International",FR: AB1 - FR: AB1
+http://s1.bossna-caffe.com:80/live?channelId=953&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="954" tvg-name="FR: Cine+ Frisson HD" tvg-logo="/noicon.png" group-title="International",FR: Cine+ Frisson HD - FR: Cine+ Frisson HD
+http://s1.bossna-caffe.com:80/live?channelId=954&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="983" tvg-name="===== Scandinavia Test =====" tvg-logo="http://i.imgur.com/9PUmQlC.jpg" group-title="Scandinavia",===== Scandinavia Test ===== - ===== Scandinavia Test =====
+http://s1.bossna-caffe.com:80/live?channelId=983&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="962" tvg-name="SVT 1" tvg-logo="http://i.imgur.com/xrLti9b.png" group-title="Scandinavia",SVT 1 - SVT 1
+http://s1.bossna-caffe.com:80/live?channelId=962&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="963" tvg-name="SVT 2" tvg-logo="http://i.imgur.com/X4zlXcB.png" group-title="Scandinavia",SVT 2 - SVT 2
+http://s1.bossna-caffe.com:80/live?channelId=963&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="964" tvg-name="TV4" tvg-logo="http://i.imgur.com/xFhSLL1.jpg" group-title="Scandinavia",TV4 - TV4
+http://s1.bossna-caffe.com:80/live?channelId=964&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="966" tvg-name="TV 4 Komedi" tvg-logo="http://i.imgur.com/WgoQgHU.png" group-title="Scandinavia",TV 4 Komedi - TV 4 Komedi
+http://s1.bossna-caffe.com:80/live?channelId=966&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="965" tvg-name="TV 4 Film" tvg-logo="http://i.imgur.com/6xUprJb.jpg" group-title="Scandinavia",TV 4 Film - TV 4 Film
+http://s1.bossna-caffe.com:80/live?channelId=965&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="967" tvg-name="TV 4 Guld" tvg-logo="http://i.imgur.com/OttRMGI.jpg" group-title="Scandinavia",TV 4 Guld - TV 4 Guld
+http://s1.bossna-caffe.com:80/live?channelId=967&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="968" tvg-name="TV 4 Fakta" tvg-logo="http://i.imgur.com/4rZpaVl.jpg" group-title="Scandinavia",TV 4 Fakta - TV 4 Fakta
+http://s1.bossna-caffe.com:80/live?channelId=968&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="969" tvg-name="TV 4 Sport" tvg-logo="http://i.imgur.com/q0KooP6.jpg" group-title="Scandinavia",TV 4 Sport - TV 4 Sport
+http://s1.bossna-caffe.com:80/live?channelId=969&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="970" tvg-name="TV 6" tvg-logo="http://i.imgur.com/WkdCI0t.png" group-title="Scandinavia",TV 6 - TV 6
+http://s1.bossna-caffe.com:80/live?channelId=970&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="971" tvg-name="TV 10" tvg-logo="http://i.imgur.com/NoFqtrs.jpg" group-title="Scandinavia",TV 10 - TV 10
+http://s1.bossna-caffe.com:80/live?channelId=971&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="972" tvg-name="Viasat Premiere" tvg-logo="http://i.imgur.com/6rd33ug.png" group-title="Scandinavia",Viasat Premiere - Viasat Premiere
+http://s1.bossna-caffe.com:80/live?channelId=972&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="973" tvg-name="Viasat Comedy" tvg-logo="http://i.imgur.com/3TRE7hv.png" group-title="Scandinavia",Viasat Comedy - Viasat Comedy
+http://s1.bossna-caffe.com:80/live?channelId=973&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="974" tvg-name="Viasat Hits" tvg-logo="http://i.imgur.com/E7Yi1d3.jpg" group-title="Scandinavia",Viasat Hits - Viasat Hits
+http://s1.bossna-caffe.com:80/live?channelId=974&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="975" tvg-name="Viasat Sport" tvg-logo="http://i.imgur.com/lT7sXcU.png" group-title="Scandinavia",Viasat Sport - Viasat Sport
+http://s1.bossna-caffe.com:80/live?channelId=975&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="984" tvg-name="Viasat Fotball" tvg-logo="http://i.imgur.com/ChhAWqC.jpg" group-title="Scandinavia",Viasat Fotball - Viasat Fotball
+http://s1.bossna-caffe.com:80/live?channelId=984&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="976" tvg-name="Viasat Hockey" tvg-logo="http://i.imgur.com/rdbMmo3.png" group-title="Scandinavia",Viasat Hockey - Viasat Hockey
+http://s1.bossna-caffe.com:80/live?channelId=976&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="977" tvg-name="C More Action" tvg-logo="http://i.imgur.com/ANN9jsC.jpg" group-title="Scandinavia",C More Action - C More Action
+http://s1.bossna-caffe.com:80/live?channelId=977&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="978" tvg-name="C More Hits" tvg-logo="http://i.imgur.com/NJeNc56.jpg" group-title="Scandinavia",C More Hits - C More Hits
+http://s1.bossna-caffe.com:80/live?channelId=978&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="979" tvg-name="C More First" tvg-logo="http://i.imgur.com/K09pb6Z.png" group-title="Scandinavia",C More First - C More First
+http://s1.bossna-caffe.com:80/live?channelId=979&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="980" tvg-name="C More Series" tvg-logo="http://i.imgur.com/0DePjdi.png" group-title="Scandinavia",C More Series - C More Series
+http://s1.bossna-caffe.com:80/live?channelId=980&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="981" tvg-name="C More Emotion" tvg-logo="http://i.imgur.com/E39zqvq.png" group-title="Scandinavia",C More Emotion - C More Emotion
+http://s1.bossna-caffe.com:80/live?channelId=981&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="328" tvg-name="SWE-C MORE ACTION" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/Action_sq.jpg" group-title="International",SWE-C MORE ACTION - SWE-C MORE ACTION
+http://media.bossna-caffe.com:80/live?channelId=328&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="982" tvg-name="C More Fotball" tvg-logo="http://i.imgur.com/hG972U9.jpg" group-title="Scandinavia",C More Fotball - C More Fotball
+http://s1.bossna-caffe.com:80/live?channelId=982&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1024" tvg-name="═════Makedonski═════" tvg-logo="/noicon.png" group-title="International",═════Makedonski═════ - ═════Makedonski═════
+no_stream
+#EXTINF:-1 tvg-id="1025" tvg-name="MRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="International",MRT 1 - MRT 1
+http://s6.bossna-caffe.com:80/live?channelId=1025&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1026" tvg-name="MRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="International",MRT 2 - MRT 2
+http://s6.bossna-caffe.com:80/live?channelId=1026&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1027" tvg-name="Kanal 5" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/9690/brand.gif?itok=Egt1qx6k" group-title="International",Kanal 5 - Kanal 5
+http://s6.bossna-caffe.com:80/live?channelId=1027&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1028" tvg-name="Kanal 5+" tvg-logo="http://tvprofil.net/img/kanali-logo/kanal5-plus-logo.png" group-title="International",Kanal 5+ - Kanal 5+
+http://s6.bossna-caffe.com:80/live?channelId=1028&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1029" tvg-name="Sitel" tvg-logo="http://tvprofil.net/img/kanali-logo/sitel-logo.png" group-title="International",Sitel - Sitel
+http://s6.bossna-caffe.com:80/live?channelId=1029&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1030" tvg-name="Sitel 3" tvg-logo="http://mvljnski.home.xs4all.nl/images/sitel3.jpg" group-title="International",Sitel 3 - Sitel 3
+http://s6.bossna-caffe.com:80/live?channelId=1030&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1031" tvg-name="Telma" tvg-logo="http://mediapedia.mk/media/sliki/telma_logo_ySbReM9.jpg" group-title="International",Telma - Telma
+http://s6.bossna-caffe.com:80/live?channelId=1031&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1036" tvg-name="Alfa TV MK" tvg-logo="http://tvprofil.net/img/kanali-logo/alfatvlogo.png" group-title="International",Alfa TV MK - Alfa TV MK
+http://s6.bossna-caffe.com:80/live?channelId=1036&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1037" tvg-name="24 Vesti" tvg-logo="http://frocus.net/images/logotv/original/24_vesti_mk.jpg" group-title="International",24 Vesti - 24 Vesti
+http://s6.bossna-caffe.com:80/live?channelId=1037&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1158" tvg-name="========Holand(TEST)========" tvg-logo="/noicon.png" group-title="International",========Holand(TEST)======== - ========Holand(TEST)========
+no_stream
+#EXTINF:-1 tvg-id="1159" tvg-name="NL: HBO HD" tvg-logo="/noicon.png" group-title="International",NL: HBO HD - NL: HBO HD
+http://s6.bossna-caffe.com:80/live?channelId=1159&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1160" tvg-name="NL: HBO 2" tvg-logo="/noicon.png" group-title="International",NL: HBO 2 - NL: HBO 2
+http://s6.bossna-caffe.com:80/live?channelId=1160&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1161" tvg-name="NL: HBO 3" tvg-logo="/noicon.png" group-title="International",NL: HBO 3 - NL: HBO 3
+http://s6.bossna-caffe.com:80/live?channelId=1161&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1162" tvg-name="NL: Film 1 Premiere HD" tvg-logo="/noicon.png" group-title="International",NL: Film 1 Premiere HD - NL: Film 1 Premiere HD
+http://s6.bossna-caffe.com:80/live?channelId=1162&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1163" tvg-name="NL: Film 1 Action" tvg-logo="/noicon.png" group-title="International",NL: Film 1 Action - NL: Film 1 Action
+http://s6.bossna-caffe.com:80/live?channelId=1163&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1164" tvg-name="NL: RTL 4" tvg-logo="/noicon.png" group-title="International",NL: RTL 4 - NL: RTL 4
+http://s6.bossna-caffe.com:80/live?channelId=1164&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1165" tvg-name="NL: RTL 5" tvg-logo="/noicon.png" group-title="International",NL: RTL 5 - NL: RTL 5
+http://s6.bossna-caffe.com:80/live?channelId=1165&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1166" tvg-name="NL: MTV" tvg-logo="/noicon.png" group-title="Videoteka",NL: MTV - NL: MTV
+http://s6.bossna-caffe.com:80/live?channelId=1166&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1167" tvg-name="NL: NPO 1" tvg-logo="/noicon.png" group-title="International",NL: NPO 1 - NL: NPO 1
+http://s6.bossna-caffe.com:80/live?channelId=1167&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1168" tvg-name="NL: NPO 2" tvg-logo="/noicon.png" group-title="International",NL: NPO 2 - NL: NPO 2
+http://s6.bossna-caffe.com:80/live?channelId=1168&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1169" tvg-name="NL | NPO 3" tvg-logo="/noicon.png" group-title="International",NL | NPO 3 - NL | NPO 3
+http://s6.bossna-caffe.com:80/live?channelId=1169&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1170" tvg-name="Comedy Central  NL" tvg-logo="/noicon.png" group-title="International",Comedy Central  NL - Comedy Central NL
+http://s6.bossna-caffe.com:80/live?channelId=1170&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="423" tvg-name="═════Adult XXX ═════" tvg-logo="http://img3.wikia.nocookie.net/__cb20150316180332/logopedia/images/f/f4/XXX_EXTREME_2009.jpg" group-title="Adult xxx",═════Adult XXX ═════ - ═════Adult XXX ═════
+http://s02.bossna-caffe.com:80/live?channelId=423&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="119" tvg-name="♥ XXX 1" tvg-logo="http://i.imgur.com/1olCcOK.png" group-title="Adult xxx",♥ XXX 1 - ♥ XXX 1
+http://s02.bossna-caffe.com:80/live?channelId=119&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="117" tvg-name="♥ XXX 2" tvg-logo="http://www.moviexclusive.com/review/xxx2/XXX2%20Title%20Block.gif" group-title="Adult xxx",♥ XXX 2 - ♥ XXX 2
+http://s02.bossna-caffe.com:80/live?channelId=117&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="305" tvg-name="♥ XXX 3" tvg-logo="https://fanart.tv/fanart/movies/7451/movieart/xxx-50070ea5acab0.png" group-title="Adult xxx",♥ XXX 3 - ♥ XXX 3
+http://s02.bossna-caffe.com:80/live?channelId=305&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="216" tvg-name="♥ XXX 4" tvg-logo="http://www.livep2ptvstream.com/logo/taquilla.jpg" group-title="Adult xxx",♥ XXX 4 - ♥ XXX 4
+http://s02.bossna-caffe.com:80/live?channelId=216&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="68" tvg-name="♥ XXX 5" tvg-logo="http://logofury.com/wp-content/uploads/2004/cbdca03fbccfffd8b6583b6f261d1946.png" group-title="Adult xxx",♥ XXX 5 - ♥ XXX 5
+http://s02.bossna-caffe.com:80/live?channelId=68&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="303" tvg-name="♥ XXX 6" tvg-logo="https://t1.ftcdn.net/jpg/00/79/29/62/160_F_79296203_sL0m7kwZIEN2Ic6uiHbJuN0O9hD2A1ms.jpg" group-title="Adult xxx",♥ XXX 6 - ♥ XXX 6
+http://s02.bossna-caffe.com:80/live?channelId=303&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="304" tvg-name="♥ XXX 7" tvg-logo="https://pbs.twimg.com/profile_images/1519036851/logo.png" group-title="Adult xxx",♥ XXX 7 - ♥ XXX 7
+http://s02.bossna-caffe.com:80/live?channelId=304&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="365" tvg-name="♥ XXX 8" tvg-logo="https://pbs.twimg.com/profile_images/416310714/083109_XXX_Entertainment_Logo-01.png" group-title="Adult xxx",♥ XXX 8 - ♥ XXX 8
+http://s02.bossna-caffe.com:80/live?channelId=365&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="424" tvg-name="♥ XXX 9" tvg-logo="https://pbs.twimg.com/profile_images/1519036851/logo.png" group-title="Adult xxx",♥ XXX 9 - ♥ XXX 9
+http://s02.bossna-caffe.com:80/live?channelId=424&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="425" tvg-name="♥ XXX 10" tvg-logo="http://i.ytimg.com/vi/4UPA4apJA6w/hqdefault.jpg" group-title="Adult xxx",♥ XXX 10 - ♥ XXX 10
+http://s02.bossna-caffe.com:80/live?channelId=425&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="997" tvg-name="XXX (18+) | Primafila Hot Club 1" tvg-logo="/noicon.png" group-title="Adult xxx",XXX (18+) | Primafila Hot Club 1 - XXX (18+) | Primafila Hot Club 1
+http://s1.bossna-caffe.com:80/live?channelId=997&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="998" tvg-name="XXX (18+) | Primafila Hot Club 2" tvg-logo="/noicon.png" group-title="Adult xxx",XXX (18+) | Primafila Hot Club 2 - XXX (18+) | Primafila Hot Club 2
+http://s1.bossna-caffe.com:80/live?channelId=998&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="999" tvg-name="XXX (18+) | Primafila Hot Club 3" tvg-logo="/noicon.png" group-title="Adult xxx",XXX (18+) | Primafila Hot Club 3 - XXX (18+) | Primafila Hot Club 3
+http://s1.bossna-caffe.com:80/live?channelId=999&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1000" tvg-name="XXX (18+) | Primafila Hot Club 4" tvg-logo="/noicon.png" group-title="Adult xxx",XXX (18+) | Primafila Hot Club 4 - XXX (18+) | Primafila Hot Club 4
+http://s1.bossna-caffe.com:80/live?channelId=1000&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="623" tvg-name="radio kafic" tvg-logo="/noicon.png" group-title="Ex-YU",radio kafic - radio kafic
+http://radiokafic.com:19580
+#EXTINF:-1 tvg-id="1040" tvg-name="═════ Videoteka ═════" tvg-logo="/noicon.png" group-title="Videoteka",═════ Videoteka ═════ - ═════ Videoteka ═════
+no_stream
+#EXTINF:-1 tvg-id="1041" tvg-name="Akcija tigar" tvg-logo="/noicon.png" group-title="Videoteka",Akcija tigar - Akcija tigar
+http://movie.bossna-caffe.com/movies/domaci/02.avi
+#EXTINF:-1 tvg-id="1042" tvg-name="Apsolutnih sto" tvg-logo="/noicon.png" group-title="Videoteka",Apsolutnih sto - Apsolutnih sto
+http://movie.bossna-caffe.com/movies/domaci/03.avi
+#EXTINF:-1 tvg-id="1043" tvg-name="Balkanski spijun" tvg-logo="/noicon.png" group-title="Videoteka",Balkanski spijun - Balkanski spijun
+http://movie.bossna-caffe.com/movies/domaci/04.avi
+#EXTINF:-1 tvg-id="1044" tvg-name="Duhovi Sarajeva" tvg-logo="/noicon.png" group-title="Videoteka",Duhovi Sarajeva - Duhovi Sarajeva
+http://movie.bossna-caffe.com/movies/domaci/05.mp4
+#EXTINF:-1 tvg-id="1045" tvg-name="Idi mi dodji mi" tvg-logo="/noicon.png" group-title="Videoteka",Idi mi dodji mi - Idi mi dodji mi
+http://movie.bossna-caffe.com/movies/domaci/06.avi
+#EXTINF:-1 tvg-id="1046" tvg-name="Kakav deda takav unuk" tvg-logo="/noicon.png" group-title="Videoteka",Kakav deda takav unuk - Kakav deda takav unuk
+http://movie.bossna-caffe.com/movies/domaci/07.avi
+#EXTINF:-1 tvg-id="1047" tvg-name="Karaula" tvg-logo="/noicon.png" group-title="Videoteka",Karaula - Karaula
+http://movie.bossna-caffe.com/movies/domaci/08.avi
+#EXTINF:-1 tvg-id="1048" tvg-name="Ko To Tamo Peva" tvg-logo="/noicon.png" group-title="Videoteka",Ko To Tamo Peva - Ko To Tamo Peva
+http://movie.bossna-caffe.com/movies/domaci/09.mp4
+#EXTINF:-1 tvg-id="1049" tvg-name="Kuduz" tvg-logo="/noicon.png" group-title="Videoteka",Kuduz - Kuduz
+http://movie.bossna-caffe.com/movies/domaci/10.avi
+#EXTINF:-1 tvg-id="1050" tvg-name="Lajanje na zvezde" tvg-logo="/noicon.png" group-title="Videoteka",Lajanje na zvezde - Lajanje na zvezde
+http://movie.bossna-caffe.com/movies/domaci/11.avi
+#EXTINF:-1 tvg-id="1051" tvg-name="Ljubi ljubi al glavu ne gubi" tvg-logo="/noicon.png" group-title="Videoteka",Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi
+http://movie.bossna-caffe.com/movies/domaci/12.avi
+#EXTINF:-1 tvg-id="1052" tvg-name="Mali Budo" tvg-logo="/noicon.png" group-title="Videoteka",Mali Budo - Mali Budo
+http://movie.bossna-caffe.com/movies/domaci/13.mp4
+#EXTINF:-1 tvg-id="1053" tvg-name="Maratonci Trce Pocasni Krug" tvg-logo="/noicon.png" group-title="Videoteka",Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug
+http://movie.bossna-caffe.com/movies/domaci/14.mkv
+#EXTINF:-1 tvg-id="1054" tvg-name="Mi nismo andjeli" tvg-logo="/noicon.png" group-title="Videoteka",Mi nismo andjeli - Mi nismo andjeli
+http://movie.bossna-caffe.com/movies/domaci/15.avi
+#EXTINF:-1 tvg-id="1055" tvg-name="Mi nismo andjeli 3" tvg-logo="/noicon.png" group-title="Videoteka",Mi nismo andjeli 3 - Mi nismo andjeli 3
+http://movie.bossna-caffe.com/movies/domaci/16.mp4
+#EXTINF:-1 tvg-id="1056" tvg-name="Mrtav Ladan" tvg-logo="/noicon.png" group-title="Videoteka",Mrtav Ladan - Mrtav Ladan
+http://movie.bossna-caffe.com/movies/domaci/17.mp4
+#EXTINF:-1 tvg-id="1057" tvg-name="Munje" tvg-logo="/noicon.png" group-title="Videoteka",Munje - Munje
+http://movie.bossna-caffe.com/movies/domaci/18.avi
+#EXTINF:-1 tvg-id="1058" tvg-name="Nacionalna klasa" tvg-logo="/noicon.png" group-title="Videoteka",Nacionalna klasa - Nacionalna klasa
+http://movie.bossna-caffe.com/movies/domaci/19.avi
+#EXTINF:-1 tvg-id="1059" tvg-name="Nebo nad krajolikom" tvg-logo="/noicon.png" group-title="Videoteka",Nebo nad krajolikom - Nebo nad krajolikom
+http://movie.bossna-caffe.com/movies/domaci/20.avi
+#EXTINF:-1 tvg-id="1060" tvg-name="Nije lako sa muskarcima" tvg-logo="/noicon.png" group-title="Videoteka",Nije lako sa muskarcima - Nije lako sa muskarcima
+http://movie.bossna-caffe.com/movies/domaci/21.avi
+#EXTINF:-1 tvg-id="1061" tvg-name="Otac na sluzbenom putu" tvg-logo="/noicon.png" group-title="Videoteka",Otac na sluzbenom putu - Otac na sluzbenom putu
+http://movie.bossna-caffe.com/movies/domaci/22.mp4
+#EXTINF:-1 tvg-id="1062" tvg-name="Partizanska eskadrila" tvg-logo="/noicon.png" group-title="Videoteka",Partizanska eskadrila - Partizanska eskadrila
+http://movie.bossna-caffe.com/movies/domaci/23.mkv
+#EXTINF:-1 tvg-id="1063" tvg-name="Sekula i njegove zene" tvg-logo="/noicon.png" group-title="Videoteka",Sekula i njegove zene - Sekula i njegove zene
+http://movie.bossna-caffe.com/movies/domaci/24.mp4
+#EXTINF:-1 tvg-id="1064" tvg-name="Sjecas li se Dolly Bell" tvg-logo="/noicon.png" group-title="Videoteka",Sjecas li se Dolly Bell - Sjecas li se Dolly Bell
+http://movie.bossna-caffe.com/movies/domaci/25.avi
+#EXTINF:-1 tvg-id="1065" tvg-name="Sta se zgodi kad se ljubav rodi" tvg-logo="/noicon.png" group-title="Videoteka",Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi
+http://movie.bossna-caffe.com/movies/domaci/26.avi
+#EXTINF:-1 tvg-id="1066" tvg-name="Tesna koza 1" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 1 - Tesna koza 1
+http://movie.bossna-caffe.com/movies/domaci/27.avi
+#EXTINF:-1 tvg-id="1067" tvg-name="Tesna koza 2" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 2 - Tesna koza 2
+http://movie.bossna-caffe.com/movies/domaci/28.avi
+#EXTINF:-1 tvg-id="1068" tvg-name="Tesna koza 3" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 3 - Tesna koza 3
+http://s6.bossna-caffe.com:80/live?channelId=1068&uid=13953&deviceUser=111dmanzalovic&devicePass=Z45CjMWWRvDcUKEb
+#EXTINF:-1 tvg-id="1069" tvg-name="Tesna koza 4" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 4 - Tesna koza 4
+http://movie.bossna-caffe.com/movies/domaci/30.avi
+#EXTINF:-1 tvg-id="1070" tvg-name="Valter brani Sarajevo" tvg-logo="/noicon.png" group-title="Videoteka",Valter brani Sarajevo - Valter brani Sarajevo
+http://movie.bossna-caffe.com/movies/domaci/31.avi
+#EXTINF:-1 tvg-id="1071" tvg-name="Zikina Dinastija" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija - Zikina Dinastija
+http://movie.bossna-caffe.com/movies/domaci/34.avi
+#EXTINF:-1 tvg-id="1072" tvg-name="Zikina Dinastija 2" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija 2 - Zikina Dinastija 2
+http://movie.bossna-caffe.com/movies/domaci/32.mp4
+#EXTINF:-1 tvg-id="1073" tvg-name="Zikina Dinastija 4" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija 4 - Zikina Dinastija 4
+http://movie.bossna-caffe.com/movies/domaci/33.avi
+#EXTINF:-1 tvg-id="1074" tvg-name="Zivi i mrtvi" tvg-logo="/noicon.png" group-title="Videoteka",Zivi i mrtvi - Zivi i mrtvi
+http://movie.bossna-caffe.com/movies/domaci/01.avi
+#EXTINF:-1 tvg-id="1075" tvg-name="═════ Strani ═════" tvg-logo="/noicon.png" group-title="Videoteka",═════ Strani ═════ - ═════ Strani ═════
+no_stream
+#EXTINF:-1 tvg-id="1076" tvg-name="2 Guns Zero Tolerance" tvg-logo="/noicon.png" group-title="Videoteka",2 Guns Zero Tolerance - 2 Guns Zero Tolerance
+http://movie.bossna-caffe.com/movies/strani/01.mp4
+#EXTINF:-1 tvg-id="1077" tvg-name="American Hero" tvg-logo="/noicon.png" group-title="Videoteka",American Hero - American Hero
+http://movie.bossna-caffe.com/movies/strani/02.mp4
+#EXTINF:-1 tvg-id="1078" tvg-name="Band of Robbers" tvg-logo="/noicon.png" group-title="Videoteka",Band of Robbers - Band of Robbers
+http://movie.bossna-caffe.com/movies/strani/03.mp4
+#EXTINF:-1 tvg-id="1079" tvg-name="Bridge of Spies" tvg-logo="/noicon.png" group-title="Videoteka",Bridge of Spies - Bridge of Spies
+http://movie.bossna-caffe.com/movies/strani/04.mp4
+#EXTINF:-1 tvg-id="1080" tvg-name="Creed" tvg-logo="/noicon.png" group-title="Videoteka",Creed - Creed
+http://movie.bossna-caffe.com/movies/strani/05.mp4
+#EXTINF:-1 tvg-id="1081" tvg-name="Dirty Grandpa" tvg-logo="/noicon.png" group-title="Videoteka",Dirty Grandpa - Dirty Grandpa
+http://movie.bossna-caffe.com/movies/strani/06.mp4
+#EXTINF:-1 tvg-id="1082" tvg-name="Gangster Squad" tvg-logo="/noicon.png" group-title="Videoteka",Gangster Squad - Gangster Squad
+http://movie.bossna-caffe.com/movies/strani/07.mp4
+#EXTINF:-1 tvg-id="1083" tvg-name="Irrational Man" tvg-logo="/noicon.png" group-title="Videoteka",Irrational Man - Irrational Man
+http://movie.bossna-caffe.com/movies/strani/08.mp4
+#EXTINF:-1 tvg-id="1084" tvg-name="Jurassic World" tvg-logo="/noicon.png" group-title="Videoteka",Jurassic World - Jurassic World
+http://movie.bossna-caffe.com/movies/strani/09.mp4
+#EXTINF:-1 tvg-id="1085" tvg-name="Kingsman The Secret Service" tvg-logo="/noicon.png" group-title="Videoteka",Kingsman The Secret Service - Kingsman The Secret Service
+http://movie.bossna-caffe.com/movies/strani/10.mp4
+#EXTINF:-1 tvg-id="1086" tvg-name="Laugh Killer Laugh" tvg-logo="/noicon.png" group-title="Videoteka",Laugh Killer Laugh - Laugh Killer Laugh
+http://movie.bossna-caffe.com/movies/strani/11.mp4
+#EXTINF:-1 tvg-id="1087" tvg-name="Legend" tvg-logo="/noicon.png" group-title="Videoteka",Legend - Legend
+http://movie.bossna-caffe.com/movies/strani/12.mp4
+#EXTINF:-1 tvg-id="1088" tvg-name="London Has Fallen" tvg-logo="/noicon.png" group-title="Videoteka",London Has Fallen - London Has Fallen
+http://movie.bossna-caffe.com/movies/strani/13.mp4
+#EXTINF:-1 tvg-id="1089" tvg-name="Mad Max Fury Road" tvg-logo="/noicon.png" group-title="Videoteka",Mad Max Fury Road - Mad Max Fury Road
+http://movie.bossna-caffe.com/movies/strani/14.mp4
+#EXTINF:-1 tvg-id="1090" tvg-name="Risen" tvg-logo="/noicon.png" group-title="Videoteka",Risen - Risen
+http://movie.bossna-caffe.com/movies/strani/15.mp4
+#EXTINF:-1 tvg-id="1091" tvg-name="San Andreas" tvg-logo="/noicon.png" group-title="Videoteka",San Andreas - San Andreas
+http://movie.bossna-caffe.com/movies/strani/16.mp4
+#EXTINF:-1 tvg-id="1092" tvg-name="Slow West" tvg-logo="/noicon.png" group-title="Videoteka",Slow West - Slow West
+http://movie.bossna-caffe.com/movies/strani/17.mp4
+#EXTINF:-1 tvg-id="1093" tvg-name="Star Wars The Force Awakens" tvg-logo="/noicon.png" group-title="Videoteka",Star Wars The Force Awakens - Star Wars The Force Awakens
+http://movie.bossna-caffe.com/movies/strani/18.mp4
+#EXTINF:-1 tvg-id="1094" tvg-name="The Benefactor" tvg-logo="/noicon.png" group-title="Videoteka",The Benefactor - The Benefactor
+http://movie.bossna-caffe.com/movies/strani/19.mp4
+#EXTINF:-1 tvg-id="1095" tvg-name="The Expendables 3" tvg-logo="/noicon.png" group-title="Videoteka",The Expendables 3 - The Expendables 3
+http://movie.bossna-caffe.com/movies/strani/20.mp4
+#EXTINF:-1 tvg-id="1096" tvg-name="The Forger" tvg-logo="/noicon.png" group-title="Videoteka",The Forger - The Forger
+http://movie.bossna-caffe.com/movies/strani/21.mp4
+#EXTINF:-1 tvg-id="1097" tvg-name="The Last Witch Hunter" tvg-logo="/noicon.png" group-title="Videoteka",The Last Witch Hunter - The Last Witch Hunter
+http://movie.bossna-caffe.com/movies/strani/22.mp4
+#EXTINF:-1 tvg-id="1098" tvg-name="The Legend of Tarzan" tvg-logo="/noicon.png" group-title="Videoteka",The Legend of Tarzan - The Legend of Tarzan
+http://movie.bossna-caffe.com/movies/strani/23.mp4
+#EXTINF:-1 tvg-id="1099" tvg-name="The Martian" tvg-logo="/noicon.png" group-title="Videoteka",The Martian - The Martian
+http://movie.bossna-caffe.com/movies/strani/23.mp4
+#EXTINF:-1 tvg-id="1100" tvg-name="The Trust" tvg-logo="/noicon.png" group-title="Videoteka",The Trust - The Trust
+http://movie.bossna-caffe.com/movies/strani/25.mp4
+#EXTINF:-1 tvg-id="1101" tvg-name="The Big Short" tvg-logo="/noicon.png" group-title="Videoteka",The Big Short - The Big Short
+http://movie.bossna-caffe.com/movies/strani/26.mp4
+#EXTINF:-1 tvg-id="1102" tvg-name="The Hateful Eight" tvg-logo="/noicon.png" group-title="Videoteka",The Hateful Eight - The Hateful Eight
+http://movie.bossna-caffe.com/movies/strani/27.mp4
+#EXTINF:-1 tvg-id="1103" tvg-name="The Revenant" tvg-logo="/noicon.png" group-title="Videoteka",The Revenant - The Revenant
+http://movie.bossna-caffe.com/movies/strani/28.mp4
+#EXTINF:-1 tvg-id="1104" tvg-name="Warcraft" tvg-logo="/noicon.png" group-title="Videoteka",Warcraft - Warcraft
+http://movie.bossna-caffe.com/movies/strani/29.mp4
+#EXTINF:-1 tvg-id="1105" tvg-name="═════ Crtani  ═════" tvg-logo="/noicon.png" group-title="Videoteka",═════ Crtani  ═════ - ═════ Crtani  ═════
+no_stream
+#EXTINF:-1 tvg-id="1106" tvg-name="Alvin i Veverice 3" tvg-logo="/noicon.png" group-title="Videoteka",Alvin i Veverice 3 - Alvin i Veverice 3
+http://movie.bossna-caffe.com/movies/crtani/01.avi
+#EXTINF:-1 tvg-id="1107" tvg-name="Arthur u zemlji Minimoya" tvg-logo="/noicon.png" group-title="Videoteka",Arthur u zemlji Minimoya - Arthur u zemlji Minimoya
+http://movie.bossna-caffe.com/movies/crtani/02.mkv
+#EXTINF:-1 tvg-id="1108" tvg-name="Automobili" tvg-logo="/noicon.png" group-title="Videoteka",Automobili - Automobili
+http://movie.bossna-caffe.com/movies/crtani/03.avi
+#EXTINF:-1 tvg-id="1109" tvg-name="Avioni 2 Nebeski vatrogasci" tvg-logo="/noicon.png" group-title="Videoteka",Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci
+http://movie.bossna-caffe.com/movies/crtani/04.avi
+#EXTINF:-1 tvg-id="1110" tvg-name="Barbi i tri musketira" tvg-logo="/noicon.png" group-title="Videoteka",Barbi i tri musketira - Barbi i tri musketira
+http://movie.bossna-caffe.com/movies/crtani/05.avi
+#EXTINF:-1 tvg-id="1111" tvg-name="Barbi Savrsen Bozic" tvg-logo="/noicon.png" group-title="Videoteka",Barbi Savrsen Bozic - Barbi Savrsen Bozic
+http://movie.bossna-caffe.com/movies/crtani/06.avi
+#EXTINF:-1 tvg-id="1112" tvg-name="Barbie i carobni pegaz" tvg-logo="/noicon.png" group-title="Videoteka",Barbie i carobni pegaz - Barbie i carobni pegaz
+http://movie.bossna-caffe.com/movies/crtani/07.avi
+#EXTINF:-1 tvg-id="1113" tvg-name="Barbie Mariposa" tvg-logo="/noicon.png" group-title="Videoteka",Barbie Mariposa - Barbie Mariposa
+http://movie.bossna-caffe.com/movies/crtani/08.avi
+#EXTINF:-1 tvg-id="1114" tvg-name="Despicable Me 2" tvg-logo="/noicon.png" group-title="Videoteka",Despicable Me 2 - Despicable Me 2
+http://movie.bossna-caffe.com/movies/crtani/10.mkv
+#EXTINF:-1 tvg-id="1115" tvg-name="Dinosaurus" tvg-logo="/noicon.png" group-title="Videoteka",Dinosaurus - Dinosaurus
+http://movie.bossna-caffe.com/movies/crtani/11.avi
+#EXTINF:-1 tvg-id="1116" tvg-name="Kako trenirati zmaja 2" tvg-logo="/noicon.png" group-title="Videoteka",Kako trenirati zmaja 2 - Kako trenirati zmaja 2
+http://movie.bossna-caffe.com/movies/crtani/12.mkv
+#EXTINF:-1 tvg-id="1117" tvg-name="Knjiga o dzungli 2" tvg-logo="/noicon.png" group-title="Videoteka",Knjiga o dzungli 2 - Knjiga o dzungli 2
+http://movie.bossna-caffe.com/movies/crtani/13.avi
+#EXTINF:-1 tvg-id="1118" tvg-name="Kralj lavova" tvg-logo="/noicon.png" group-title="Videoteka",Kralj lavova - Kralj lavova
+http://movie.bossna-caffe.com/movies/crtani/14.avi
+#EXTINF:-1 tvg-id="1119" tvg-name="Potraga za Nemom" tvg-logo="/noicon.png" group-title="Videoteka",Potraga za Nemom - Potraga za Nemom
+http://movie.bossna-caffe.com/movies/crtani/15.avi
+#EXTINF:-1 tvg-id="1120" tvg-name="Ruzno pace" tvg-logo="/noicon.png" group-title="Videoteka",Ruzno pace - Ruzno pace
+http://movie.bossna-caffe.com/movies/crtani/16.mp4
+#EXTINF:-1 tvg-id="1121" tvg-name="Setnja sa Dinosaurima" tvg-logo="/noicon.png" group-title="Videoteka",Setnja sa Dinosaurima - Setnja sa Dinosaurima
+http://movie.bossna-caffe.com/movies/crtani/17.mp4
+#EXTINF:-1 tvg-id="1122" tvg-name="Shrek" tvg-logo="/noicon.png" group-title="Videoteka",Shrek - Shrek
+http://movie.bossna-caffe.com/movies/crtani/18.avi
+#EXTINF:-1 tvg-id="1123" tvg-name="Snjezno Kraljevstvo" tvg-logo="/noicon.png" group-title="Videoteka",Snjezno Kraljevstvo - Snjezno Kraljevstvo
+http://movie.bossna-caffe.com/movies/crtani/20.avi
+#EXTINF:-1 tvg-id="1124" tvg-name="Tarzan" tvg-logo="/noicon.png" group-title="Videoteka",Tarzan - Tarzan
+http://movie.bossna-caffe.com/movies/crtani/19.avi
+
